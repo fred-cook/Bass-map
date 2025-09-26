@@ -32,14 +32,20 @@ jobs:
       # Commit and push all CSV files
       - name: Commit and push CSVs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Add all CSV files recursively
-          git add 'outputs/'
+          git add ./outputs
 
           # Commit if there are changes
           git diff --cached --quiet || git commit -m "Update generated CSVs [skip ci]"
 
           # Push to main
           git push origin main
+      - name: Commit files # commit the output folder
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git add ./output
+          git commit -m "Update csvs"
+          git push
