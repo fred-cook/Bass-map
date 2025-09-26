@@ -27,8 +27,17 @@ jobs:
       - name: Run script
         run: uv run python main.py
 
-      - name: Upload permanent Bass locations csv
-        uses: actions/upload-artifact@v4
-        with:
-          name: permanent-location
-          path: "*.csv"
+      # Commit and push all CSV files
+      - name: Commit and push CSVs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add all CSV files recursively
+          git add '*.csv'
+
+          # Commit if there are changes
+          git diff --cached --quiet || git commit -m "Update generated CSVs [skip ci]"
+
+          # Push to main
+          git push origin main
