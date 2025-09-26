@@ -15,7 +15,10 @@ guest_bass_df = get_coords(bass_df[bass_df["status"] == "Guest"])
 out_dir = Path("outputs")
 out_dir.mkdir(parents=True, exist_ok=True)
 
-print("Saving permanent Bass locations")
+print(f"Saving permanent Bass locations to {str(out_dir)}")
 permanent_bass_df.to_csv(out_dir / "permanent_locations.csv", index=False)
-print("Saving guest Bass locations")
+print(f"Saving guest Bass locations to {str(out_dir)}")
 guest_bass_df.to_csv(out_dir / "guest_locations.csv", index=False)
+
+for f in Path(out_dir).iterdir():
+    print(f.absolute())

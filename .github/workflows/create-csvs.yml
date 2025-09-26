@@ -36,7 +36,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Add all CSV files recursively
-          git add 'outputs/*.csv'
+          git add 'outputs/'
 
           # Commit if there are changes
           git diff --cached --quiet || git commit -m "Update generated CSVs [skip ci]"
