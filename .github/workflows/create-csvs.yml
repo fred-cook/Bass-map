@@ -2,6 +2,8 @@ name: Generate and Commit CSVs
 
 on:
   workflow_dispatch:
+  schedule:            # run at 1pm UTC on the 1st of every month
+    - cron: "0 13 1 * *"
 
 permissions:
   contents: write  # needed for pushing changes
@@ -30,7 +32,7 @@ jobs:
 
       # 4. Load the Google maps secret api key
       - name: Get API token
-        run: echo "GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}" >> $GITHUB_ENV
+        run: echo "GOOGLE_MAPS_API=${{ secrets.GOOGLE_MAPS_API }}" >> $GITHUB_ENV
 
       # 5. Run the pub location finding script
       - name: Generate CSVs
