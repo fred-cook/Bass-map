@@ -22,7 +22,7 @@ jobs:
         run: pip install uv
 
       - name: Get API token
-        run: echo "GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}" >> $GITHUB_ENV
+        run: echo "GOOGLE_MAPS_API=${{ secrets.GOOGLE_MAPS_API }}" >> $GITHUB_ENV
 
       - name: Run script
         run: uv run python main.py
