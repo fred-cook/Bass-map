@@ -1,10 +1,15 @@
-name: Test committing a csv
+name: Publish CSVs to GitHub Pages
 
 on:
-  workflow_dispatch:   # allows manual runs
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to push to gh-pages
+  pages: write      # needed to publish GitHub Pages
+  id-token: write   # needed for OIDC auth
 
 jobs:
-  download:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -12,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: false   # we'll handle auth manually
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,12 +30,16 @@ jobs:
       - name: Run script
         run: uv run python bass_map/test.py
 
-      # Commit and push all CSV files
-      - name: Commit and push CSVs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+      # Upload the outputs folder as a GitHub Pages artifact
+      - name: Upload CSVs as artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: outputs
 
-          git add ./outputs
-          git diff --cached --quiet || git commit -m "Update CSVs for GitHub Pages [skip ci]"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
