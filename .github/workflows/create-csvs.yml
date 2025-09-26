@@ -1,51 +1,50 @@
-name: Create pub locations csv
+name: Generate and Commit CSVs
 
 on:
-  workflow_dispatch:   # allows manual runs
-  schedule:            # run at 1pm UTC on the 1st of every month
-    - cron: "0 13 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # needed for pushing changes
 
 jobs:
-  download:
+  generate-and-push:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      # 1. Checkout repo
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: false
 
+      # 2. Setup Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      # 3. Install dependencies
       - name: Install dependencies
         run: pip install uv
 
-      - name: Get API token
-        run: echo "GOOGLE_MAPS_API=${{ secrets.GOOGLE_MAPS_API }}" >> $GITHUB_ENV
-
-      - name: Run script
+      # 4. Run the pub location finding script
+      - name: Generate CSVs
         run: uv run python main.py
 
-      # Commit and push all CSV files
+      # 5. Upload CSVs as workflow artifacts
+      - name: Upload CSVs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: csv-outputs
+          path: outputs/*.csv
+
+      # 6. Commit and push CSVs back to main branch
       - name: Commit and push CSVs
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Add all CSV files recursively
-          git add ./outputs
-
-          # Commit if there are changes
-          git diff --cached --quiet || git commit -m "Update generated CSVs [skip ci]"
-
-          # Push to main
-          git push origin main
-      - name: Commit files # commit the output folder
-        run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git add ./output
-          git commit -m "Update csvs"
-          git push
+          git add outputs
+          git diff --cached --quiet || git commit -m "Update CSVs [skip ci]"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
