@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from bass_map.get_coordinates import get_coords
+from bass_map.get_coordinates import get_coords, create_cache
 from bass_map.get_pdf import download_master_bass_directory
 from bass_map.parse_bass_directory import get_tables
 
@@ -8,9 +8,10 @@ filename = "bass_directory.pdf"
 
 download_master_bass_directory(filename=filename)
 bass_df = get_tables(filename=filename)
+cache = create_cache()
 
-permanent_bass_df = get_coords(bass_df[bass_df["status"] == "Perm"])
-guest_bass_df = get_coords(bass_df[bass_df["status"] == "Guest"])
+permanent_bass_df = get_coords(bass_df[bass_df["status"] == "Perm"], cache=cache)
+guest_bass_df = get_coords(bass_df[bass_df["status"] == "Guest"], cache=cache)
 
 out_dir = Path("outputs")
 out_dir.mkdir(parents=True, exist_ok=True)
