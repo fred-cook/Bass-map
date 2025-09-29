@@ -13,7 +13,7 @@ cache = create_cache()
 permanent_bass_df = get_coords(bass_df[bass_df["status"] == "Perm"], cache=cache)
 guest_bass_df = get_coords(bass_df[bass_df["status"] == "Guest"], cache=cache)
 
-out_dir = Path("outputs")
+out_dir = Path("pub_locations")
 out_dir.mkdir(parents=True, exist_ok=True)
 
 print(f"Saving permanent Bass locations to {str(out_dir)}")
