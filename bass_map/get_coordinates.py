@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 from dotenv import load_dotenv
 import pandas as pd
@@ -51,3 +52,20 @@ def get_coords(bass_df: pd.DataFrame) -> pd.DataFrame:
     bass_df["latitude"] = lats
     bass_df["longitude"] = lngs
     return bass_df
+
+def create_cache() -> dict[str, dict[str, float]]:
+    """
+    If pub locations have been run before create a lookup
+    dictionary of the query to find that pub and its coords
+    """
+    existing_csvs: list[pd.DataFrame] = []
+    if (existing_data_path := Path("pub_locations")).exists():
+        for file in [f for f in existing_data_path.iterdir() if f.stem == ".csv"]:
+            existing_csvs.append(pd.read_csv(file))
+    if len(existing_csvs):
+        cache = {}
+        df = pd.concat(existing_csvs)
+        for _, row in df.iterrows():
+            query = create_query(row)
+            cache[query] = {"lat": row["latitude"], "lng": row["longitude"]}
+            
