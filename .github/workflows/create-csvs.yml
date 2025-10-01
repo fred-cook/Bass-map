@@ -2,8 +2,8 @@ name: Generate Bass map CSVs
 
 on:
   workflow_dispatch:
-  schedule:            # run at 1pm UTC on the 1st of every month
-    - cron: "0 13 1 * *"
+  schedule: # Run at 8am on the second of the month
+  - cron: "0 8 2 * *"
 
 permissions:
   contents: write  # needed for pushing changes
