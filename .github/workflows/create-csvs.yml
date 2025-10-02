@@ -2,8 +2,9 @@ name: Generate Bass map CSVs
 
 on:
   workflow_dispatch:
-  schedule: # Run at 8am on the second of the month
-  - cron: "0 8 2 * *"
+  schedule:
+    # Run daily at 8am
+    - cron: "0 8 * * *"
 
 permissions:
   contents: write  # needed for pushing changes
@@ -47,10 +48,28 @@ jobs:
 
       # 7. Commit and push CSVs back to main branch
       - name: Commit and push CSVs
+        id: git-commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add pub_locations
-          git diff --cached --quiet || git commit -m "Update CSVs [skip ci]"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+          if git diff --cached --quiet; then
+            echo "no_changes=true" >> $GITHUB_ENV
+          else
+            git commit -m "Update CSVs [skip ci]"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+            echo "no_changes=false" >> $GITHUB_ENV
+
+      # 8. Tag @fred-cook in a comment if there are CSV changes
+      - name: Tag @fred-cook in a comment
+        if: env.no_changes == 'false'
+        run: |
+          COMMENT="Hi @fred-cook, the Bass Map CSVs have been updated. Please review the changes."
+          # Get the latest commit SHA
+          LATEST_COMMIT=$(git rev-parse HEAD)
+          # Post a comment on the commit
+          gh api repos/${{ github.repository }}/commits/$LATEST_COMMIT/comments \
+            -f body="$COMMENT"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
