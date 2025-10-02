@@ -38,6 +38,8 @@ def get_tables(filename: str) -> pd.DataFrame:
 
     for table in tables:
         df = table.df
+        # Removed pubs table either has that as first row, or has
+        # year/month style values for first column.
         if df.iloc[0][0] == "Removed pubs" or re.fullmatch(
             "^\d{4}/(0[1-9]|1[0-2])$", df.iloc[0][0]
         ):
