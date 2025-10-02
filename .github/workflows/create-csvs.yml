@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: pip install uv
 
-      # 4. Load the Google maps secret api key
+      # 4. Load the Google maps secret API key
       - name: Get API token
         run: echo "GOOGLE_MAPS_API=${{ secrets.GOOGLE_MAPS_API }}" >> $GITHUB_ENV
 
@@ -54,12 +54,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add pub_locations
+
           if git diff --cached --quiet; then
-            echo "no_changes=true" >> $GITHUB_ENV
+              echo "no_changes=true" >> $GITHUB_ENV
           else
-            git commit -m "Update CSVs [skip ci]"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
-            echo "no_changes=false" >> $GITHUB_ENV
+              git commit -m "Update CSVs [skip ci]"
+              git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+              echo "no_changes=false" >> $GITHUB_ENV
+          fi
 
       # 8. Tag @fred-cook in a comment if there are CSV changes
       - name: Tag @fred-cook in a comment
@@ -69,7 +71,7 @@ jobs:
           # Get the latest commit SHA
           LATEST_COMMIT=$(git rev-parse HEAD)
           # Post a comment on the commit
-          gh api repos/${{ github.repository }}/commits/$LATEST_COMMIT/comments \
+          gh api "repos/${{ github.repository }}/commits/$LATEST_COMMIT/comments" \
             -f body="$COMMENT"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
