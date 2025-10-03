@@ -3,7 +3,7 @@ A small script that reads from the [National Bass Directory](https://nationalbas
 
 ## Running
 
-The script is set up to run in Github workflows at 1pm on the first of every month. This should automatically update the `permanent_locations.csv` and `guest_locations.csv` in the root of the repository. However you can also run it locally by following these steps:
+The script is set up to run in Github workflows at 8am every day. This should automatically update the `permanent_locations.csv` and `guest_locations.csv` in the root of the repository if there are changes, and tag @fred-cook in a comment so I can update the personal google map. However you can also run it locally by following these steps:
 
 1. Make sure you have UV installed, this can be achieved with `pip install uv` if you already have python, or by following the instructions [here](https://docs.astral.sh/uv/getting-started/installation/)
 2. Create a google maps places API key [here](https://developers.google.com/maps/documentation/places/web-service/overview). Create a `.env` file in the root of the directory and paste the key in like so : `GOOGLE_MAPS_API=<your key here>`
