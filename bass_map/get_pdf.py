@@ -10,7 +10,7 @@ def create_url() -> str:
     """
     year = datetime.now().year
     month = datetime.now().month
-    return f"https://nationalbassdirectory.wordpress.com/wp-content/uploads/{year}/{month:02d}/bass-master-directory-{calendar.month_name[month].lower()}-{year}.pdf"
+    return f"https://nationalbassdirectory.wordpress.com/wp-content/uploads/{year}/{month:02d}/bass-master-directory-{calendar.month_name[month].lower()}-{year}-1.pdf"
 
 
 def download_master_bass_directory(filename: str) -> None:
