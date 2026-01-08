@@ -55,4 +55,4 @@ def get_tables(filename: str) -> pd.DataFrame:
     # Expand the pour methods from initials
     bass_df["method"] = bass_df["method"].map(methods)
 
-    return bass_df[bass_df["name"] != ""]
+    return bass_df[bass_df["name"] != ""].drop_duplicates()

@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+import time
 
 from dotenv import load_dotenv
 import pandas as pd
@@ -8,58 +9,77 @@ from tqdm import tqdm
 
 load_dotenv()
 
-GOOGLE_API_KEY = os.getenv("GOOGLE_MAPS_API")
-PLACES_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
+GEOAPIFY_API_KEY = os.getenv("GEOAPIFY_API_KEY")
+SEARCH_URL = "https://api.geoapify.com/v1/geocode/search"
 
-if not GOOGLE_API_KEY:
-    raise RuntimeError("GOOGLE_MAPS_API is missing! Set it in .env or GitHub Secrets.")
+MAX_REQUESTS_PER_SECOND = 5
+MIN_REQUEST_INTERVAL = 1.0 / MAX_REQUESTS_PER_SECOND
+
+if not GEOAPIFY_API_KEY:
+    raise RuntimeError("GEOAPIFY_API_KEY is missing! Set it in .env or GitHub Secrets.")
 
 
 def create_query(row: pd.Series) -> str:
     """
-    Create a query from the pub information to pass
-    in to the Google maps API
+    Create a text query based on the pub's name, town and region
     """
-    if (pub_name := row["name"]) == "Navigation":
-        # the Google api tries to start navigation and returns
-        # the wrong result
-        pub_name = "Navig"
-    return f"{pub_name} pub, {row['place']}, {row['region']}"
+    return f"{row['name']} pub, {row['place']}, {row['region']}, UK"
 
 
 def get_coords(
     bass_df: pd.DataFrame, cache: dict[str, dict[str, float]] | None = None
 ) -> pd.DataFrame:
     """
-    Query the google maps API to get the coords of every pub
-    in bass_df. Add latitude and longitude columns
-
-    if a cache is passed in
+    Query Geoapify Place Search API to get pub coordinates.
+    Rate-limited to 5 requests / second.
     """
     lats: list[float] = []
     lngs: list[float] = []
+
+    last_request_time = 0.0
+
     for _, row in tqdm(
         bass_df.iterrows(),
         total=len(bass_df),
         desc=f"Fetching pub coords: {bass_df['status'].unique()}",
     ):
         query = create_query(row)
+
         if cache is not None and (cached := cache.get(query)) is not None:
             lat = cached["lat"]
             lng = cached["lng"]
-        else:
-            params = {"query": query, "key": GOOGLE_API_KEY}
-            r = requests.get(PLACES_URL, params=params).json()
 
-            if r["status"] == "OK" and len(r["results"]):
-                pub = r["results"][0]
-                lat = pub["geometry"]["location"]["lat"]
-                lng = pub["geometry"]["location"]["lng"]
-            else:
+        else:
+            # ---- rate limiting ----
+            now = time.monotonic()
+            elapsed = now - last_request_time
+            if elapsed < MIN_REQUEST_INTERVAL:
+                time.sleep(MIN_REQUEST_INTERVAL - elapsed)
+
+            last_request_time = time.monotonic()
+
+            params = {
+                "text": query,
+                "format": "json",
+                "apiKey": GEOAPIFY_API_KEY,
+                "filter": "countrycode:gb",
+                "limit": 1,
+            }
+
+            r = requests.get(SEARCH_URL, params=params, timeout=10)
+            r.raise_for_status()
+            data = r.json()
+
+            if not data.get("results"):
                 print(f"{row['name']} pub had no results")
                 lat, lng = float("nan"), float("nan")
+            else:
+                result = data["results"][0]
+                lat, lng = result["lat"], result["lon"]
+
         lats.append(lat)
         lngs.append(lng)
+
     bass_df["latitude"] = lats
     bass_df["longitude"] = lngs
     return bass_df
@@ -81,3 +101,56 @@ def create_cache() -> dict[str, dict[str, float]] | None:
             query = create_query(row)
             cache[query] = {"lat": row["latitude"], "lng": row["longitude"]}
         return cache
+
+
+def geocode_pub(
+    pub_name: str,
+    town: str,
+    area: str,
+    api_key: str,
+    country: str = "United Kingdom",
+):
+    """
+    Geocode a pub using Geoapify and return (latitude, longitude).
+
+    Parameters
+    ----------
+    pub_name : str
+        Name of the pub (e.g. "The Squirrel")
+    town : str
+        Town or city (e.g. "Rugby")
+    area : str
+        County/area (e.g. "Warwickshire")
+    api_key : str
+        Geoapify API key
+    country : str, optional
+        Country name, default "United Kingdom"
+
+    Returns
+    -------
+    (lat, lon) tuple if found, otherwise None
+    """
+    url = "https://api.geoapify.com/v1/geocode/search"
+
+    query = f"{pub_name}, {town}, {area}, {country}"
+
+    params = {
+        "text": query,
+        "format": "json",
+        "apiKey": api_key,
+        # Bias results to the UK to reduce ambiguity
+        "filter": "countrycode:gb",
+        # Limit results – pubs are usually unique enough
+        "limit": 1,
+    }
+
+    response = requests.get(url, params=params, timeout=10)
+    response.raise_for_status()
+
+    data = response.json()
+
+    if not data.get("results"):
+        return None
+
+    result = data["results"][0]
+    return result["lat"], result["lon"]
