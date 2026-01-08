@@ -17,9 +17,12 @@ out_dir = Path("pub_locations")
 out_dir.mkdir(parents=True, exist_ok=True)
 
 print(f"Saving permanent Bass locations to {str(out_dir)}")
-permanent_bass_df.to_csv(out_dir / "permanent_locations.csv", index=False)
+permanent_bass_df.to_csv(
+    out_dir / "permanent_locations.csv",
+    index=False,
+)
 print(f"Saving guest Bass locations to {str(out_dir)}")
-guest_bass_df.to_csv(out_dir / "guest_locations.csv", index=False)
-
-for f in Path(out_dir).iterdir():
-    print(f.absolute())
+guest_bass_df.to_csv(
+    out_dir / "guest_locations.csv",
+    index=False,
+)
