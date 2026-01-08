@@ -33,7 +33,7 @@ jobs:
 
       # 4. Load the Google maps secret API key
       - name: Get API token
-        run: echo "GOOGLE_MAPS_API=${{ secrets.GOOGLE_MAPS_API }}" >> $GITHUB_ENV
+        run: echo "GEOAPIFY_API_KEY=${{ secrets.GEOAPIFY_API_KEY }}" >> $GITHUB_ENV
 
       # 5. Run the pub location finding script
       - name: Generate CSVs
