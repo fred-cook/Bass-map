@@ -67,7 +67,7 @@ Derbyshire,Marquis,Codnor,Guest,2025 Q4,Handpump,,53.0327475,-1.3797011
 Derbyshire,Bubble Inn,Coton in the Elms,Guest,2025 Q1,Handpump,,52.7343245,-1.6346393
 Derbyshire,Cliff Inn,Crich,Guest,2025 Q2,Handpump,,53.0897045,-1.4874652
 Derbyshire,Nunsfield Social Club (PMC),Derby: Alvaston,Guest,2025 Q2,Handpump,"""guest ale, on average once a month""",52.8940936,-1.428137
-Derbyshire,Bless,Derby: Central,Guest,2026 Q1,Handpump,,53.048705749999996,-1.406966076068196
+Derbyshire,Bless,Derby: Central,Guest,2026 Q1,Handpump,,53.04870575,-1.406966076068196
 Derbyshire,Peacock Inn,Derby: Central,Guest,2026 Q1,,"""barrel on the bar most Derby County home games"" (June 25)",52.9259581,-1.4708934
 Derbyshire,Royal Standard,Derby: Central,Guest,2025 Q4,Handpump,,52.9242528,-1.4732583
 Derbyshire,Chaddesen Park Social Club (PMC),Derby: Chaddesden,Guest,2025 Q4,Handpump,,52.927228,-1.4458378
@@ -149,7 +149,7 @@ Gloucs & Bristol,Horseshoe,Chipping Sodbury,Guest,2026 Q1,Handpump,,51.5380664,-
 Gloucs & Bristol,Kings Head,France Lynch,Guest,2025 Q3,Handpump,,51.7311273,-2.1403004
 Gloucs & Bristol,Kings Arms,Newent,Guest,2025 Q4,Handpump,,51.9337814,-2.4089601
 Gloucs & Bristol,VMI Club,Upton St Leonards,Guest,2025 Q3,Handpump,,51.8321947,-2.2000031
-Gloucs & Bristol,White Lion,Westbury on Trym,Guest,2025 Q4,Handpump,,51.49503885,-2.6172554577284215
+Gloucs & Bristol,White Lion,Westbury on Trym,Guest,2025 Q4,Handpump,,51.49503885,-2.617255457728421
 Hampshire,Chilworth Arms,Chilworth,Guest,2025 Q4,Handpump,,50.9644382,-1.4170329
 Hampshire,Ebenezers,Hythe,Guest,2025 Q2,Handpump,,50.8702118,-1.4003941
 Hampshire,Red Lion,Overton,Guest,2025 Q1,Handpump,,51.2438999,-1.2657832
@@ -202,7 +202,7 @@ Leicestershire,George and Dragon,Thringstone,Guest,2025 Q4,Handpump,,52.7597122,
 Lincolnshire,Anchor,Bourne,Guest,2025 Q1,Handpump,,52.7652868,-0.3643228
 Lincolnshire,Waggon and Horses,Branston,Guest,2025 Q2,Handpump,,53.1935023,-0.4735768
 Lincolnshire,Yarborough Hunt,Brigg,Guest,2025 Q4,Handpump,,53.5515389,-0.4954587
-Lincolnshire,Duke of Wellington,Grimsby,Guest,2026 Q1,Handpump,,53.566116050000005,-0.08045163464555327
+Lincolnshire,Duke of Wellington,Grimsby,Guest,2026 Q1,Handpump,,53.566116050000005,-0.0804516346455532
 Lincolnshire,Hope and Anchor,Grimsby,Guest,2026 Q1,Handpump,,53.5664225,-0.0814007
 Lincolnshire,Rose and Crown,Grimsby,Guest,2025 Q3,Handpump,,53.5363655,-0.0897101999999999
 Lincolnshire,Wheatsheaf,Grimsby,Guest,2025 Q3,Handpump,,53.5577449,-0.091404
@@ -255,7 +255,7 @@ Greater London,Famous Royal Oak,Muswell Hill N10,Guest,2025 Q3,Handpump,,51.5883
 Greater London,Railway Tavern,Richmond TW9,Guest,2025 Q4,Handpump,,51.4625882,-0.3024081
 Greater London,Woodman,Ruislip,Guest,2025 Q4,Handpump,,51.5855767,-0.4411988
 Greater London,Kings Arms,Shoreditch E2,Guest,2025 Q2,Handpump,,51.5256913,-0.0657822
-Greater London,Clachan,Soho W1B,Guest,2026 Q1,Handpump,,51.5135261,-0.14022928053490324
+Greater London,Clachan,Soho W1B,Guest,2026 Q1,Handpump,,51.5135261,-0.1402292805349032
 Greater London,Argyll Arms,Soho W1F,Guest,2025 Q4,Handpump,,51.51507549999999,-0.141329
 Greater London,Crown and Two Chairmen,Soho W1D,Guest,2025 Q4,Handpump,,51.65588185,-0.0869142188391877
 Greater London,Devonshire,Soho W1D,Guest,2025 Q4,Handpump,,51.5106814,-0.1353452
@@ -494,7 +494,7 @@ South Yorkshire,Brothers Arms,Sheffield: Heeley,Guest,2025 Q4,Handpump,,53.36108
 South Yorkshire,Rising Sun,Sheffield: Whirlow,Guest,2025 Q3,Handpump,,53.3671598,-1.5304247
 West Yorkshire,Exchange,Bradford,Guest,2025 Q4,Handpump,,53.7942347,-1.7521926
 West Yorkshire,Boons,Horbury,Guest,2026 Q1,Handpump,,53.65965,-1.555008
-West Yorkshire,Adelphi,Leeds: Central,Guest,2026 Q1,Handpump,,53.971408249999996,-1.4943181288845058
+West Yorkshire,Adelphi,Leeds: Central,Guest,2026 Q1,Handpump,,53.97140825,-1.4943181288845058
 West Yorkshire,Palace,Leeds: Central,Guest,2025 Q1,Handpump,,53.7950515,-1.534869
 West Yorkshire,Black Rock,Wakefield,Guest,2025 Q3,Handpump,,53.6828792,-1.4989384
 West Yorkshire,Red Shed,Wakefield,Guest,2025 Q4,Handpump,,53.6838852,-1.4938726
@@ -532,5 +532,5 @@ SCOTLAND,Cloisters,Edinburgh: Tollcross,Guest,2025 Q2,Handpump,,55.8432796,-4.17
 SCOTLAND,Drum and Monkey,Glasgow: Central,Guest,2025 Q3,Handpump,,55.86139720000001,-4.256450699999999
 NORTHERN IRELAND,Crown Liqour Saloon,Belfast,Guest,2025 Q4,Handpump,,54.5946759,-5.9341121
 CHANNEL ISLANDS,Old Smugglers Inn,"St Brelade, Jersey",Guest,2025 Q4,Handpump,Was taken out May 25 after email from pub but spotted again Dec 25,50.4476423,-4.998664509401351
-CHANNEL ISLANDS,Royal,"St Martin, Jersey",Guest,2025 Q4,Handpump,,54.82454035,-3.1617338271036597
+CHANNEL ISLANDS,Royal,"St Martin, Jersey",Guest,2025 Q4,Handpump,,54.82454035,-3.16173382710366
 ISLE OF MAN,Trafalgar Hotel,Ramsey,Guest,2025 Q4,Handpump,,53.2556216,-4.3112793
