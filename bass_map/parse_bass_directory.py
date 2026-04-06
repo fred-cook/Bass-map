@@ -8,6 +8,7 @@ HEADERS = [
     "region",
     "name",
     "place",
+    "postcode",
     "status",
     "last_sighted",
     "method",
