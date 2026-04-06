@@ -21,8 +21,13 @@ if not GEOAPIFY_API_KEY:
 
 def create_query(row: pd.Series) -> str:
     """
-    Create a text query based on the pub's name, town and region
+    Create a text query based on available data.
+    Prefer postcode when present for accuracy.
     """
+    postcode = str(row.get("postcode", "")).strip()
+
+    if postcode:
+        return f"{row['name']} pub, {postcode}, UK"
     return f"{row['name']} pub, {row['place']}, {row['region']}, UK"
 
 
