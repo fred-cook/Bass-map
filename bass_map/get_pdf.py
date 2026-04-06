@@ -10,7 +10,7 @@ def create_urls():
     """
     year = datetime.now().year
     month = datetime.now().month
-    for extension in ["", "-1"]:
+    for extension in ["", "-1", "-v2-with-pcodes"]:
         yield f"https://nationalbassdirectory.wordpress.com/wp-content/uploads/{year}/{month:02d}/bass-master-directory-{calendar.month_name[month].lower()}-{year}{extension}.pdf"
 
 
