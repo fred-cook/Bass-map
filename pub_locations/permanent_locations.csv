@@ -4,14 +4,14 @@ Bedfordshire,Bricklayers Arms,Luton,LU2 0DD,Perm,2025 Q2,Handpump,,51.8834315,-0
 Cambridgeshire,Kingston Arms,Cambridge,CB1 2NU,Perm,2026 Q1,Handpump,,52.2003831,0.1397405
 Cheshire,Golf Club (PMC),Alsager,ST7 2UR,Perm,2025 Q3,Handpump,,53.0869661,-2.2955735
 Cheshire,Lodge Inn,Alsager,ST7 2JA,Perm,2026 Q1,Handpump,,53.09518868333333,-2.31426195
-Cheshire,Cotton Tree,Bollington,SK10 5RE,Perm,2025 Q2,Handpump,,53.2981792,-2.0900665199999997
-Cheshire,Turners,Bollington,SK10 5RE,Perm,2026 Q1,Handpump,Although it is a club non-members are welcome,53.2981792,-2.0900665199999997
+Cheshire,Cotton Tree,Bollington,SK10 5RE,Perm,2025 Q2,Handpump,,53.2981792,-2.09006652
+Cheshire,Turners,Bollington,SK10 5RE,Perm,2026 Q1,Handpump,Although it is a club non-members are welcome,53.2981792,-2.09006652
 Cheshire,Golden Eagle,Chester,CH1 2DS,Perm,2026 Q1,Handpump,,53.1871037,-2.8916925
 Cheshire,Congleton Rugby Club (PMC),Congleton,CW12 1EG,Perm,2026 Q1,Handpump,,53.1639541,-2.2071438
-Cheshire,Queens Head Hotel,Congleton,CW12 3DE,Perm,2026 Q1,Handpump,,53.1579057,-2.1942312399999997
+Cheshire,Queens Head Hotel,Congleton,CW12 3DE,Perm,2026 Q1,Handpump,,53.1579057,-2.19423124
 Cheshire,Olde Kings Head,Gurnett,SK11 0HD,Perm,2025 Q3,Handpump,,53.2431778,-2.11428555
 Cheshire,GJ Muckers,Macclesfield,SK11 7NE,Perm,2025 Q4,Handpump,,53.2562591,-2.12220435
-Cheshire,Jolly Sailor,Macclesfield,SK11 6HN,Perm,2025 Q4,Handpump,,53.256967828571426,-2.1225744285714288
+Cheshire,Jolly Sailor,Macclesfield,SK11 6HN,Perm,2025 Q4,Handpump,,53.25696782857143,-2.1225744285714288
 Cheshire,Coach and Horses,Timbersbrook,CW12 3PL,Perm,2025 Q4,Handpump,,53.1540452,-2.16518305
 Cornwall,Hole in the Wall,Bodmin,PL31 2DS,Perm,2026 Q1,Handpump,,50.47121245,-4.718948
 Cornwall,Seven Stars,Falmouth,TR11 3QA,Perm,2026 Q1,Gravity,,50.15511355,-5.07287655
@@ -35,9 +35,9 @@ Derbyshire,Old Kings Head,Belper: Central,DE56 1NP,Perm,2025 Q2,Handpump,,53.021
 Derbyshire,Tavern,Belper: Central,DE56 1UU,Perm,2025 Q2,Handpump,,53.01827745,-1.485400875
 Derbyshire,Thorn Tree Inn,Belper: Central,DE56 1FF,Perm,2025 Q4,Handpump,,53.02775885,-1.47621385
 Derbyshire,Waterloo,Biggin,SK17 0DH,Perm,2025 Q3,Handpump,,53.1324829,-1.7736071
-Derbyshire,Navigation,Breaston,DE72 3BP,Perm,2025 Q4,Handpump,,52.902354233333334,-1.3172928333333334
+Derbyshire,Navigation,Breaston,DE72 3BP,Perm,2025 Q4,Handpump,,52.90235423333333,-1.3172928333333334
 Derbyshire,Burton Golf Club (PMC),Bretby,DE15 0PS,Perm,2026 Q1,Handpump,,52.795801425,-1.577573375
-Derbyshire,New Inn,Buxton,SK17 6EB,Perm,2026 Q1,Handpump,,53.256388933333334,-1.9136213
+Derbyshire,New Inn,Buxton,SK17 6EB,Perm,2026 Q1,Handpump,,53.25638893333333,-1.9136213
 Derbyshire,Swan,Buxton,SK17 6HB,Perm,2026 Q1,Handpump,,53.253705525,-1.91506845
 Derbyshire,Mount Pleasant Inn,Castle Gresley,DE11 9JE,Perm,2026 Q1,Handpump,,52.749839,-1.573778
 Derbyshire,R and Rs Sports Bar,Chellaston,DE73 5SA,Perm,2025 Q4,Handpump,,52.86898888888889,-1.438922422222222
@@ -47,25 +47,25 @@ Derbyshire,Drum and Monkey,Castle Gresley,DE11 9LH,Perm,2025 Q2,Handpump,,52.758
 Derbyshire,Miners Arms,Church Gresley,DE11 9NT,Perm,2026 Q1,Handpump,,52.76046,-1.5679409
 Derbyshire,Black Horse,Coton in the Elms,DE12 8HJ,Perm,2026 Q1,Handpump,,52.734518704,-1.63607988
 Derbyshire,Boat,Cromford,DE4 3QF,Perm,2025 Q4,Handpump,,53.10895,-1.5606988
-Derbyshire,Cromford Community Centre,Cromford,DE4 3RE,Perm,2025 Q3,Handpump,,53.108233139999996,-1.5603331599999999
+Derbyshire,Cromford Community Centre,Cromford,DE4 3RE,Perm,2025 Q3,Handpump,,53.10823314,-1.56033316
 Derbyshire,Carpenters Arms,Dale Abbey,DE7 4PP,Perm,2026 Q1,Handpump,,52.9457666,-1.3517424
-Derbyshire,Allestree Club,Derby: Allestree,DE22 2FS,Perm,2026 Q1,Handpump,Not a PMC - just cheaper if you are a member,52.95418357727272,-1.4889111363636363
+Derbyshire,Allestree Club,Derby: Allestree,DE22 2FS,Perm,2026 Q1,Handpump,Not a PMC - just cheaper if you are a member,52.95418357727272,-1.4889111363636365
 Derbyshire,Markeaton,Derby: Allestree,DE22 2TF,Perm,2025 Q3,Handpump,,52.94274798157895,-1.502848505263158
-Derbyshire,Woodlands Hotel,Derby: Allestree,DE22 2GP,Perm,2025 Q2,Handpump,,52.95363496,-1.4951748900000001
-Derbyshire,Five Lamps,Derby: Central,DE1 3BH,Perm,2025 Q4,Handpump,,52.92862222666667,-1.4822686933333333
+Derbyshire,Woodlands Hotel,Derby: Allestree,DE22 2GP,Perm,2025 Q2,Handpump,,52.95363496,-1.49517489
+Derbyshire,Five Lamps,Derby: Central,DE1 3BH,Perm,2025 Q4,Handpump,,52.92862222666667,-1.482268693333333
 Derbyshire,Flowerpot,Derby: Central,DE1 3DZ,Perm,2026 Q1,Handpump,,52.92618485,-1.47939315
 Derbyshire,Horse and Groom,Derby: Central,DE1 3HN,Perm,2025 Q4,Handpump,,52.92982075,-1.48667875
 Derbyshire,Neptune,Derby: Central,DE1 2HR,Perm,2026 Q1,Handpump,,52.9188479625,-1.47515064375
-Derbyshire,Old Bell Hotel,Derby: Central,DE1 3NQ,Perm,2026 Q1,Handpump,,52.92317183684211,-1.4782674315789475
+Derbyshire,Old Bell Hotel,Derby: Central,DE1 3NQ,Perm,2026 Q1,Handpump,,52.92317183684211,-1.4782674315789477
 Derbyshire,Old Silk Mill,Derby: Central,DE1 3AF,Perm,2026 Q1,Handpump,,52.92451698333333,-1.475501025
 Derbyshire,Smithfield,Derby: Central,DE1 2BH,Perm,2026 Q1,Handpump,,52.9232285,-1.4678946
 Derbyshire,White Horse,Derby: Central,DE1 2AW,Perm,2025 Q3,Handpump,,52.92217739473684,-1.4741311421052632
 Derbyshire,Ye Olde Dolphin Inne,Derby: Central,DE1 3DL,Perm,2025 Q4,Handpump,,52.925154766666665,-1.4779359333333333
-Derbyshire,Hoppy Place,Derby: Chaddesden,DE21 6PF,Perm,2025 Q4,Handpump,,52.92361126086956,-1.4379803739130435
-Derbyshire,Jubilee Club (PMC),Derby: Chaddesden,DE21 6LJ,Perm,2025 Q3,Handpump,,52.930207625,-1.4336764583333335
-Derbyshire,Coach and Horses,Derby: Chester Green,DE1 3RF,Perm,2025 Q3,Handpump,,52.93380041111111,-1.4711680333333335
+Derbyshire,Hoppy Place,Derby: Chaddesden,DE21 6PF,Perm,2025 Q4,Handpump,,52.92361126086956,-1.4379803739130437
+Derbyshire,Jubilee Club (PMC),Derby: Chaddesden,DE21 6LJ,Perm,2025 Q3,Handpump,,52.930207625,-1.4336764583333337
+Derbyshire,Coach and Horses,Derby: Chester Green,DE1 3RF,Perm,2025 Q3,Handpump,,52.93380041111111,-1.4711680333333337
 Derbyshire,New Zealand Arms,Derby: New Zealand,DE22 3GL,Perm,2026 Q1,Handpump,Bass is used for the fish & chip batter!,52.92554625,-1.4988342
-Derbyshire,Norman Arms,Derby: Normanton,DE23 8DF,Perm,2025 Q3,Handpump,,52.898539164285715,-1.4841190857142856
+Derbyshire,Norman Arms,Derby: Normanton,DE23 8DF,Perm,2025 Q3,Handpump,,52.89853916428572,-1.4841190857142856
 Derbyshire,Liberal Club (PMC),Derby: Spondon,DE21 7EA,Perm,2026 Q1,Handpump,,52.9211626,-1.40266195
 Derbyshire,Village/Conservative Club (PMC),Derby: Spondon,DE21 7JP,Perm,2026 Q1,Handpump,,52.92128742,-1.40464126
 Derbyshire,White Swan,Derby: Spondon,DE21 7EA,Perm,2025 Q3,Handpump,,52.9211626,-1.40266195
@@ -95,14 +95,14 @@ Derbyshire,Bell and Harp,Little Eaton,DE21 5AE,Perm,2025 Q4,Handpump,,52.9810871
 Derbyshire,Curzon Club (PMC),Long Eaton,NG10 4HH,Perm,2025 Q3,Handpump,,52.90667872,-1.27979776
 Derbyshire,George Inn,Lower Hartshay,DE5 3RP,Perm,2025 Q3,Handpump,,53.058222025,-1.4280973375
 Derbyshire,Colvile Arms,Lullington,DE12 8EG,Perm,2026 Q1,Handpump,,52.71398535,-1.63131515
-Derbyshire,Red Lion,Matlock,DE4 3BT,Perm,2025 Q4,Handpump,,53.134746539999995,-1.54867204
+Derbyshire,Red Lion,Matlock,DE4 3BT,Perm,2025 Q4,Handpump,,53.13474654,-1.54867204
 Derbyshire,Sycamore Inn,Matlock,DE4 3HZ,Perm,2025 Q3,Handpump,,53.14410455,-1.5586738
 Derbyshire,Thorn Tree,Matlock,DE4 3JQ,Perm,2025 Q3,Handpump,,53.14431275,-1.553499
 Derbyshire,Harpurs,Melbourne,DE73 8FE,Perm,2025 Q2,Handpump,,52.82466533409091,-1.4292152045454545
 Derbyshire,Melbourne Inn,Melbourne,DE73 8GJ,Perm,2025 Q3,Handpump,,52.82260827142857,-1.430006019047619
 Derbyshire,White Swan,Melbourne,DE73 8DY,Perm,2025 Q2,Handpump,,52.82353864090909,-1.4250912545454546
 Derbyshire,Robin,Mickleover,DE3 9HD,Perm,2025 Q4,Handpump,,52.9136266,-1.53708336
-Derbyshire,Vine,Mickleover,DE3 0DA,Perm,2025 Q3,Handpump,,52.9044748,-1.5444982785714285
+Derbyshire,Vine,Mickleover,DE3 0DA,Perm,2025 Q3,Handpump,,52.9044748,-1.5444982785714283
 Derbyshire,Rising Sun,Middleton by Wirksworth,DE4 4LS,Perm,2026 Q1,Handpump,,53.09439718958333,-1.5827788041666666
 Derbyshire,King William,Milford,DE56 0RR,Perm,2026 Q1,,,53.00213965,-1.47781895
 Derbyshire,Milford Sunshine Social Club (PMC),Milford,DE56 0QH,Perm,2025 Q4,,,53.00290425,-1.4802253
@@ -127,7 +127,7 @@ Derbyshire,Boathouse,Shardlow,DE72 2GL,Perm,2025 Q4,Handpump,,52.867241925,-1.34
 Derbyshire,Navigation,Shardlow,DE72 2WA,Perm,2026 Q1,,,52.901792,-1.316968
 Derbyshire,Old Crown,Shardlow,DE72 2HL,Perm,2025 Q2,Handpump,,52.8640882,-1.3392782
 Derbyshire,Shakespeare Inn,Shardlow,DE72 2GP,Perm,2025 Q4,Handpump,,52.868972,-1.3519174699999998
-Derbyshire,White Hart,Stanley,DE7 6EX,Perm,2026 Q1,Handpump,,52.955488951020406,-1.3820914673469387
+Derbyshire,White Hart,Stanley,DE7 6EX,Perm,2026 Q1,Handpump,,52.955488951020406,-1.3820914673469389
 Derbyshire,Flying Childers,Stanton in Peak,DE4 2LW,Perm,2026 Q1,Handpump,,53.1753378,-1.6416433
 Derbyshire,Belmont Services Club (PMC),Swadlincote: Central,DE11 8JU,Perm,2026 Q1,Handpump,,52.77497154814815,-1.5551803740740742
 Derbyshire,Constitutional Club (PMC),Swadlincote: Central,DE11 0AN,Perm,2025 Q3,Handpump,,52.776834896,-1.558183036
@@ -138,12 +138,12 @@ Derbyshire,Chequers,Ticknall,DE73 7JH,Perm,2025 Q4,Handpump,,52.8104291,-1.48146
 Derbyshire,Thorn Tree,Waingroves,DE5 9TE,Perm,2025 Q2,Handpump,,53.03894845102041,-1.385886675510204
 Derbyshire,Coopers Arms,Weston on Trent,DE72 2BJ,Perm,2026 Q1,Handpump,,52.8511352,-1.4025995
 Derbyshire,Dragon,Willington,DE65 6BP,Perm,2026 Q1,Handpump,,52.85377094,-1.56434106
-Derbyshire,Green Man,Willington,DE65 6BQ,Perm,2026 Q1,Handpump,,52.85407901666667,-1.5648975166666665
+Derbyshire,Green Man,Willington,DE65 6BQ,Perm,2026 Q1,Handpump,,52.85407901666667,-1.5648975166666663
 Derbyshire,Lime Kiln,Wirksworth,DE4 4RF,Perm,2025 Q2,Handpump,,60.4042405,-1.1220222
 Derbyshire,Quarryman,Wirksworth,DE4 4ET,Perm,2026 Q1,Handpump,,53.08246522978724,-1.5738112957446808
 Derbyshire,Wheatsheaf,Wirksworth,DE4 4DS,Perm,2025 Q2,Handpump,,53.08053007575757,-1.573234406060606
 Derbyshire,Bulls Head,Wilson,DE73 8AE,Perm,2026 Q1,Handpump,,52.8171127,-1.403633
-Derbyshire,Greyhound,Woodville,DE11 7BU,Perm,2025 Q4,Handpump,,52.76759584285714,-1.5095362964285715
+Derbyshire,Greyhound,Woodville,DE11 7BU,Perm,2025 Q4,Handpump,,52.76759584285714,-1.5095362964285717
 Derbyshire,Bulls Head,Youlgrave,DE45 1UR,Perm,2025 Q2,Handpump,"in the midst of swapping tenants, April 2025",53.1751867,-1.6862137
 Devon,Corner House,Barnstaple,EX31 1SY,Perm,2025 Q4,Handpump,,51.0811997,-4.058708
 Devon,Pony and Trap,Cullompton,EX15 1DJ,Perm,2026 Q1,Handpump,,50.854463,-3.3936303
@@ -164,23 +164,23 @@ Dorset,Bakers Arms,Dorchester,DT1 2DH,Perm,2025 Q3,Handpump,,50.70913,-2.43074
 Durham,Grey Horse,Consett,DH8 6NF,Perm,2025 Q3,Handpump,,54.8545791,-1.8250173
 Durham,Half Moon,Durham,DH1 3AQ,Perm,2026 Q1,Handpump,,54.77526015625,-1.57207044375
 Durham,Masham,Hartburn,TS18 5DR,Perm,2025 Q3,Handpump,,54.55417,-1.34023
-Durham,Hardwick Arms Hotel,Sedgefield,TS21 2AZ,Perm,2026 Q1,Handpump,incorporates Herd Grill,54.654519560000004,-1.45169049
+Durham,Hardwick Arms Hotel,Sedgefield,TS21 2AZ,Perm,2026 Q1,Handpump,incorporates Herd Grill,54.65451956,-1.45169049
 Durham,Sun,Stockton-on-Tees,TS18 1SU,Perm,2026 Q1,,Available Banked,54.5655947,-1.3118501
 Durham,Wellington Inn,Wolviston,TS22 5JY,Perm,2025 Q4,,Available Banked,54.62496695,-1.2992941
 Gloucs & Bristol,Bristol Flyer,Bristol: Bishopston,BS7 8BN,Perm,2026 Q1,Handpump,"""Barman did not know whether perm but have had it for some time""",51.4746228625,-2.5917086375
-Gloucs & Bristol,Sandringham,Bristol: Brislington,BS4 3PE,Perm,2026 Q1,Electric,,51.440786227272724,-2.554867645454545
+Gloucs & Bristol,Sandringham,Bristol: Brislington,BS4 3PE,Perm,2026 Q1,Electric,,51.44078622727272,-2.554867645454545
 Gloucs & Bristol,Bank Tavern,Bristol: Central,BS1 2HR,Perm,2026 Q1,Handpump,Quality warning Sep 2025,51.45607725,-2.59407865
 Gloucs & Bristol,Sportsmans (PMC),Bristol: Central,BS1 5AE,Perm,2025 Q3,Handpump,,51.4551778,-2.597327325
 Gloucs & Bristol,Nova Scotia,Bristol: Cumberland Basin,BS1 6XJ,Perm,2026 Q1,Handpump,,51.4472319,-2.6185902
 Gloucs & Bristol,Myrtle Tree,Bristol: Hotwells,BS1 5UW,Perm,2026 Q1,Gravity,,51.45096877916667,-2.6070211875
 Gloucs & Bristol,Rose of Denmark,Bristol: Hotwells,BS8 4QL,Perm,2025 Q2,Handpump,,51.44956088333333,-2.6211376333333334
-Gloucs & Bristol,Horse and Jockey,Bristol: St George,BS5 8LW,Perm,2025 Q3,Electric,,51.456319005000005,-2.5292493649999996
+Gloucs & Bristol,Horse and Jockey,Bristol: St George,BS5 8LW,Perm,2025 Q3,Electric,,51.456319005000005,-2.529249365
 Gloucs & Bristol,Pied Horse,Bristol: St George,BS5 8JS,Perm,2025 Q4,Handpump,,51.45954615625,-2.53702010625
 Gloucs & Bristol,Crown Tavern,Bristol: St Judes,BS2 0DY,Perm,2026 Q1,Handpump,"Quality warning 2025 Q2 (IF) ""Bass club, buy 5 Bass, 6th free""",51.458682,-2.57878045
 Gloucs & Bristol,Avon Packet,Bristol: Southville,BS3 1RF,Perm,2025 Q4,Electric,,51.44582522941176,-2.610147223529412
 Gloucs & Bristol,Cross House,Doynton,BS30 5TF,Perm,2026 Q1,Handpump,,51.464507,-2.405313
 Gloucs & Bristol,Imperial Inn,Gloucester,GL1 2AG,Perm,2025 Q3,Handpump,,51.8668937,-2.243727
-Gloucs & Bristol,King William IV,Hallen,BS10 7RZ,Perm,2025 Q2,Handpump,,51.5183615375,-2.6502755666666666
+Gloucs & Bristol,King William IV,Hallen,BS10 7RZ,Perm,2025 Q2,Handpump,,51.5183615375,-2.650275566666666
 Gloucs & Bristol,Anchor Inn,Oldbury-on-Severn,BS35 1QA,Perm,2026 Q1,Handpump,,51.63078046666667,-2.5704901
 Gloucs & Bristol,Dog Inn,Old Sodbury,BS37 6LZ,Perm,2025 Q3,Handpump,,51.53205773636364,-2.355907090909091
 Gloucs & Bristol,Post Office Tavern,Westbury on Trym,BS9 3AG,Perm,2025 Q4,Gravity,,51.4916302,-2.6169474333333334
@@ -231,7 +231,7 @@ Leicestershire,Ring o Bells,Loughborough,LE11 4JP,Perm,2025 Q2,Handpump,,52.7791
 Leicestershire,Unicorn,Lutterworth,LE17 4AE,Perm,2026 Q1,Handpump,,52.45547045,-1.2013608
 Leicestershire,Admiral Nelson,Market Harborough,LE16 9AX,Perm,2025 Q2,Handpump,,52.47774495853658,-0.9274631707317073
 Leicestershire,White Hart,Measham,DE12 7LG,Perm,2025 Q3,Handpump,,52.7052996,-1.50530125
-Leicestershire,Boat Inn,Melton Mowbray,LE13 1AF,Perm,2026 Q1,Handpump,,52.762661078571426,-0.8848482857142856
+Leicestershire,Boat Inn,Melton Mowbray,LE13 1AF,Perm,2026 Q1,Handpump,,52.76266107857143,-0.8848482857142856
 Leicestershire,Railway Inn,Moira,DE12 6DJ,Perm,2026 Q1,Handpump,,52.73813884,-1.5316753
 Leicestershire,Rawdon Arms,Moira,DE12 6AL,Perm,2026 Q1,Handpump,,52.73615713333333,-1.535605
 Leicestershire,Cross Keys,Newbold Coleorton,LE67 8PJ,Perm,2025 Q4,Handpump,,52.7685136,-1.4061836
@@ -254,15 +254,15 @@ Leicestershire,Tap House,Smisby,LE65 2TA,Perm,2026 Q1,Handpump,,52.7603414,-1.49
 Leicestershire,Three Horseshoes,Stoke Golding,CV13 6HE,Perm,2025 Q4,Handpump,,52.5708955,-1.4132054
 Leicestershire,Robin Hood,Swannington,LE67 8QQ,Perm,2026 Q1,Handpump,,52.73904,-1.3856
 Leicestershire,Anchor Inn,Walton on the Wolds,LE12 8HT,Perm,2025 Q2,Handpump,,52.7729757,-1.1229786
-Leicestershire,Black Horse,Whitwick,LE67 5DN,Perm,2025 Q4,Handpump,,52.740329446153844,-1.360663323076923
+Leicestershire,Black Horse,Whitwick,LE67 5DN,Perm,2025 Q4,Handpump,,52.74032944615384,-1.360663323076923
 Leicestershire,Man Within Compass,Whitwick,LE67 5AS,Perm,2025 Q4,Handpump,,52.7458966,-1.3505101
 Leicestershire,Three Horseshoes (Pollys),Whitwick,LE67 5GN,Perm,2026 Q1,Handpump,,52.73983404,-1.3504542199999998
 Leicestershire,Old Bulls Head,Woodhouse Eaves,LE12 8RZ,Perm,2025 Q3,Handpump,,52.72534025,-1.216145275
 Leicestershire,Three Crowns,Wymeswold,LE12 6TZ,Perm,2026 Q1,Handpump,,52.805934,-1.1075289
 Lincolnshire,Five Horseshoes,Barholm,PE9 4RA,Perm,2025 Q2,Handpump,,52.6844822,-0.3907286
 Lincolnshire,Five Bells,Bassingham,LN5 9JZ,Perm,2025 Q3,Handpump,,53.13021333636364,-0.6384014272727272
-Lincolnshire,Conservative Club (PMC),Boston,PE21 6QQ,Perm,2025 Q3,Handpump,,52.97796662857143,-0.02095057142857143
-Lincolnshire,No 1 Pub,Cleethorpes,DN35 8AX,Perm,2026 Q1,Handpump,,53.56249393333333,-0.02979966666666667
+Lincolnshire,Conservative Club (PMC),Boston,PE21 6QQ,Perm,2025 Q3,Handpump,,52.97796662857143,-0.0209505714285714
+Lincolnshire,No 1 Pub,Cleethorpes,DN35 8AX,Perm,2026 Q1,Handpump,,53.56249393333333,-0.0297996666666666
 Lincolnshire,Tempest Arms,Coleby,LN5 0AG,Perm,2025 Q2,Handpump,"on permanently ""at the moment"" (June 25)",53.1325,-0.54329
 Lincolnshire,Beehive,Grantham,NG31 6SE,Perm,2025 Q4,Handpump,,52.9122649,-0.6404659
 Lincolnshire,Olde Whyte Swanne,Louth,LN11 9NP,Perm,2025 Q3,Handpump,,53.36730215,-0.003946325
@@ -278,7 +278,7 @@ Lincolnshire,George Inn,Winterton,DN15 9PT,Perm,2025 Q3,Handpump,,53.65481886666
 Lincolnshire,Ivy,Wragby,LN8 5QU,Perm,2025 Q4,Handpump,,53.2867831,-0.3036516
 Greater London,Hand and Shears,Barbican EC1A,EC1A 7JA,Perm,2026 Q1,Handpump,,51.5193224,-0.0987774
 Greater London,Washington,Belsize Park NW3,NW3 4UE,Perm,2026 Q1,Handpump,,51.54590922727272,-0.1624201
-Greater London,Railway,Blackheath SE3,SE3 9LE,Perm,2026 Q1,Handpump,,51.46561024285714,0.008755085714285715
+Greater London,Railway,Blackheath SE3,SE3 9LE,Perm,2026 Q1,Handpump,,51.46561024285714,0.0087550857142857
 Greater London,Lord Clyde,Borough SE1,SE1 1ER,Perm,2025 Q3,Handpump,,51.502806,-0.095585
 Greater London,Express Tavern,Brentford TW8,TW8 0EW,Perm,2025 Q4,Handpump,,51.4891093,-0.2878973
 Greater London,Phoenix,Denmark Hill SE5,SE5 8BB,Perm,2025 Q4,Handpump,,51.4680147,-0.0896697
@@ -301,7 +301,7 @@ Norfolk,Garden House,Norwich,NR2 3HD,Perm,2025 Q4,Handpump,Perm 'so long as deli
 Northamptonshire,Old Red Lion,Litchborough,NN12 8JF,Perm,2025 Q3,,,52.18340006666667,-1.0760345666666666
 Northumberland,Joiners Arms,Morpeth,NE61 1XZ,Perm,2025 Q3,Handpump,,55.1659511,-1.6871195
 Nottinghamshire,Martins Arms,Colston Bassett,NG12 3FD,Perm,2025 Q4,Handpump,,52.8914788,-0.9635776
-Nottinghamshire,Nags Head,East Leake,LE12 6PG,Perm,2025 Q2,Handpump,,52.831255533333334,-1.1773398083333333
+Nottinghamshire,Nags Head,East Leake,LE12 6PG,Perm,2025 Q2,Handpump,,52.83125553333333,-1.1773398083333333
 Nottinghamshire,Worlds End,Lowdham,NG14 7AT,Perm,2025 Q4,Handpump,,53.01112,-1.008
 Nottinghamshire,Brew Tavern,Nottingham: Central,NG2 2AS,Perm,2026 Q1,,Available Banked,52.946553,-1.14652
 Nottinghamshire,Trent Navigation,Nottingham: Central,NG2 3HS,Perm,2025 Q2,Handpump,,52.9415653,-1.1377846833333334
@@ -312,8 +312,8 @@ Nottinghamshire,Victoria Tavern,Ruddington,NG11 6EQ,Perm,2025 Q3,Handpump,,52.89
 Nottinghamshire,Final Whistle,Southwell,NG25 0ET,Perm,2025 Q4,Handpump,,53.08173933333333,-0.9476283666666666
 Nottinghamshire,Staunton Arms,Staunton in the Vale,NG13 9PE,Perm,2026 Q1,Handpump,,52.984618,-0.8008057
 Nottinghamshire,Kings Head,Sutton Bonington,LE12 5PE,Perm,2026 Q1,Handpump,,52.82279134615384,-1.2533505538461538
-Nottinghamshire,Red Lion,Thurgarton,NG14 7GP,Perm,2025 Q2,Handpump,,53.037680610526316,-0.9644037263157895
-Nottinghamshire,Star Inn,West Leake,LE12 5RQ,Perm,2025 Q2,Handpump,,52.832050579411764,-1.235288244117647
+Nottinghamshire,Red Lion,Thurgarton,NG14 7GP,Perm,2025 Q2,Handpump,,53.03768061052632,-0.9644037263157896
+Nottinghamshire,Star Inn,West Leake,LE12 5RQ,Perm,2025 Q2,Handpump,,52.83205057941176,-1.235288244117647
 Nottinghamshire,Plough,Wysall,NG12 5QQ,Perm,2025 Q3,Handpump,,52.8406739,-1.1040813
 Oxfordshire,Unicorn,Deddington,OX15 0SE,Perm,2025 Q2,Handpump,"""too quiet and difficult to get hold of"" (Mar 26)",51.9811832,-1.3217952
 Oxfordshire,White Horse,Oxford: Central,OX1 3BB,Perm,2025 Q4,Handpump,,51.7545954,-1.2556627
@@ -328,8 +328,8 @@ Somerset,Ring o Bells,Bath,BA2 4JT,Perm,2025 Q4,Handpump,,51.37641484375,-2.3543
 Somerset,Star Inn,Bath,BA1 5NA,Perm,2025 Q3,,,51.3878193,-2.3601633
 Somerset,Trinity,Bath,BA1 2DA,Perm,2025 Q4,Handpump,,51.381274925,-2.364439025
 Somerset,Old Down Inn,Emborough,BA3 4SA,Perm,2025 Q4,Handpump,,51.25939,-2.53854
-Somerset,White Hart,Midsomer Norton,BA3 2HQ,Perm,2025 Q3,Handpump,,51.28538538,-2.4833614600000002
-Somerset,Ship Inn,Portishead,BS20 8JT,Perm,2025 Q4,Handpump,Landlord Vic built the pub and has run it since 1973!,51.47375379285714,-2.8065093785714286
+Somerset,White Hart,Midsomer Norton,BA3 2HQ,Perm,2025 Q3,Handpump,,51.28538538,-2.48336146
+Somerset,Ship Inn,Portishead,BS20 8JT,Perm,2025 Q4,Handpump,Landlord Vic built the pub and has run it since 1973!,51.47375379285714,-2.806509378571429
 Somerset,Black Cat,Weston-super-Mare,BS23 1HN,Perm,2026 Q1,Handpump,,51.3511149,-2.9792212
 Staffordshire,Crown,Abbots Bromley,WS15 3BS,Perm,2026 Q1,Handpump,,52.8188116,-1.881235
 Staffordshire,Goats Head,Abbots Bromley,WS15 3BP,Perm,2026 Q1,Handpump,,52.8187992,-1.882484
@@ -343,18 +343,18 @@ Staffordshire,Swan,Betley,CW3 9AB,Perm,2026 Q1,Handpump,,53.0341531,-2.36861
 Staffordshire,Royal Oak,Biddulph,ST8 6BL,Perm,2026 Q1,Handpump,,53.11855,-2.17619
 Staffordshire,Foxhound,Biddulph Moor,ST8 7JT,Perm,2025 Q2,Handpump,,53.1241572,-2.1354997
 Staffordshire,Swan,Bignall End,ST7 8QD,Perm,2026 Q1,Handpump,,53.0571827,-2.2953161
-Staffordshire,Butchers Arms,Bramshall,ST14 5BG,Perm,2025 Q3,Handpump,,52.89655976666667,-1.9095153333333332
+Staffordshire,Butchers Arms,Bramshall,ST14 5BG,Perm,2025 Q3,Handpump,,52.89655976666667,-1.9095153333333328
 Staffordshire,Bush,Brown Edge,ST6 8QA,Perm,2025 Q2,Handpump,,53.07621,-2.13814
 Staffordshire,Nelson Inn,Brown Lees,ST8 6PH,Perm,2026 Q1,Handpump,,53.1018932,-2.1869215
 Staffordshire,Branston Golf & Country Club,Burton U-T: Branston,DE14 3DP,Perm,2026 Q1,Handpump,,52.784179,-1.649484
 Staffordshire,Blacksmiths,Burton U-T: Branston,DE14 3EY,Perm,2026 Q1,Handpump,,52.7875009,-1.6705229
 Staffordshire,Burton Rugby Club,Burton U-T: Branston,DE13 9FF,Perm,2025 Q4,Handpump,Confirmed not a PMC (Oct 25),52.7892815,-1.6834535
 Staffordshire,Gate Inn,Burton U-T: Branston,DE14 3EY,Perm,2026 Q1,Handpump,,52.78661835365854,-1.6735640146341464
-Staffordshire,Trentside Cricket Club (PMC),Burton U-T: Branston,DE14 3DP,Perm,2026 Q1,Handpump,,52.785464383333334,-1.6524995666666666
+Staffordshire,Trentside Cricket Club (PMC),Burton U-T: Branston,DE14 3DP,Perm,2026 Q1,Handpump,,52.78546438333333,-1.6524995666666666
 Staffordshire,Alfred,Burton U-T: Central,DE14 2LD,Perm,2025 Q4,Handpump,"""£4.10 normally and £3.60 Monday til Friday 5pm til 7pm"" (Sep 25)",52.80945085,-1.6412866
 Staffordshire,Branston Arms,Burton U-T: Central,DE14 3DD,Perm,2025 Q3,Handpump,,52.7921202,-1.6430866
 Staffordshire,Burton Albion FC (Fan zone),Burton U-T: Central,DE13 0AR,Perm,2026 Q1,Handpump,,52.8225266,-1.6265606
-Staffordshire,Burton Bridge Inn,Burton U-T: Central,DE14 1SY,Perm,2026 Q1,Handpump,"""planning on keeping it on as it’s been really popular""",52.80694572857143,-1.6255407714285715
+Staffordshire,Burton Bridge Inn,Burton U-T: Central,DE14 1SY,Perm,2026 Q1,Handpump,"""planning on keeping it on as it’s been really popular""",52.80694572857143,-1.6255407714285717
 Staffordshire,Burton Constitutional Club (PMC),Burton U-T: Central,DE14 1JE,Perm,2026 Q1,Handpump,,52.80251803076923,-1.6297508153846154
 Staffordshire,Coopers Tavern,Burton U-T: Central,DE14 1EG,Perm,2026 Q1,Gravity,,52.8047746,-1.6377677
 Staffordshire,Coppersmiths,Burton U-T: Central,DE14 2JJ,Perm,2026 Q1,Handpump,Was Weighbridge,52.80734735,-1.642258
@@ -418,7 +418,7 @@ Staffordshire,Boat and Horses,Newcastle-U-L: Central,ST5 1LU,Perm,2025 Q4,Handpu
 Staffordshire,Castle Mona,Newcastle-U-L: Central,ST5 1NT,Perm,2025 Q4,Handpump,,53.00702,-2.22101
 Staffordshire,Hopinn,Newcastle-U-L: Central,ST5 1JR,Perm,2026 Q1,Handpump,,53.0146665,-2.2164794
 Staffordshire,Museum,Newcastle-U-L: Central,ST5 1JU,Perm,2025 Q3,Handpump,,53.01239033333333,-2.216510066666667
-Staffordshire,Victoria,Newcastle-U-L: Central,ST5 1HX,Perm,2025 Q4,Handpump,,53.014045519999996,-2.2190212899999997
+Staffordshire,Victoria,Newcastle-U-L: Central,ST5 1HX,Perm,2025 Q4,Handpump,,53.01404552,-2.21902129
 Staffordshire,Seabridge,Newcastle-U-L: Clayton,ST5 3HA,Perm,2025 Q4,Handpump,,52.9910044,-2.2406479
 Staffordshire,Roebuck,Newcastle-U-L: Silverdale,ST5 6JH,Perm,2026 Q1,Handpump,,53.0168774,-2.27098
 Staffordshire,Brushmakers Arms,Oulton,ST15 8UW,Perm,2025 Q2,Handpump,,52.91890945,-2.13736185
@@ -467,7 +467,7 @@ Staffordshire,Anglesey Arms,Stretton,DE13 0EQ,Perm,2025 Q2,Handpump,quality warn
 Staffordshire,Monks Bridge,Stretton,DE13 0HE,Perm,2026 Q1,Handpump,,52.83708337142858,-1.620993557142857
 Staffordshire,Stretton Bowls Club,Stretton,DE13 0HA,Perm,2025 Q3,Handpump,,52.83307,-1.63271
 Staffordshire,Stretton Social Club (PMC),Stretton,DE13 0DU,Perm,2026 Q1,Handpump,,52.82922110555556,-1.6250198444444444
-Staffordshire,Globe Inn,Tamworth,B79 7AT,Perm,2026 Q1,Handpump,,52.635400170588234,-1.6937742352941179
+Staffordshire,Globe Inn,Tamworth,B79 7AT,Perm,2026 Q1,Handpump,,52.63540017058824,-1.693774235294118
 Staffordshire,Cross Keys,Tean,ST10 4DR,Perm,2025 Q2,Handpump,,52.95706,-1.98984
 Staffordshire,White Hart,Tean,ST10 4DZ,Perm,2025 Q4,Handpump,,52.95351,-1.98757
 Staffordshire,Anchor,Teanford,ST10 4EW,Perm,2025 Q4,Handpump,,52.9615093,-1.9910616
@@ -496,7 +496,7 @@ Tyne and Wear,Marine,South Shields,NE33 2JQ,Perm,2025 Q2,Handpump,,55.0001622066
 Tyne and Wear,Turks Head (Stuffed Dog),Tynemouth,NE30 4DZ,Perm,2026 Q1,Handpump,(quality warning MH June 25),55.017812171428574,-1.4226938714285715
 Tyne and Wear,Tynemouth WMC/Social Club (PMC),Tynemouth,NE30 4DX,Perm,2026 Q1,Handpump,,55.0177821,-1.4246905
 Tyne and Wear,Tynemouth Lodge Hotel,Tynemouth,NE30 4AA,Perm,2026 Q1,Handpump,,55.0141271,-1.4335919
-Warwickshire,Conservative Club (PMC),Atherstone,CV9 1AD,Perm,2025 Q3,Handpump,,52.576261939999995,-1.54353542
+Warwickshire,Conservative Club (PMC),Atherstone,CV9 1AD,Perm,2025 Q3,Handpump,,52.57626194,-1.54353542
 Warwickshire,Hat and Beaver,Atherstone,CV9 1AF,Perm,2026 Q1,Handpump,,52.576599625,-1.54369725
 Warwickshire,Maid of the Mill,Atherstone,CV9 2AB,Perm,2025 Q4,Handpump,,52.57362,-1.549683
 Warwickshire,Royal Oak,Attleborough,CV11 4JY,Perm,2025 Q3,Handpump,,52.51344,-1.45526
@@ -518,7 +518,7 @@ Warwickshire,Crew and Queens Hall,Nuneaton: Central,CV11 5LA,Perm,2026 Q1,Handpu
 Warwickshire,White Hart,Ridge Lane,CV10 0RB,Perm,2026 Q1,Handpump,,52.5521083,-1.5703267
 Warwickshire,Black Horse,Sheepy Magna,CV9 3QR,Perm,2025 Q4,Handpump,,52.6093743,-1.5192104
 Warwickshire,Plough,Shustoke,B46 2AN,Perm,2026 Q1,Handpump,,52.515136,-1.6664638
-Warwickshire,Office at Warton,Warton,B79 0JN,Perm,2026 Q1,Handpump,,52.62979798,-1.5845696599999999
+Warwickshire,Office at Warton,Warton,B79 0JN,Perm,2026 Q1,Handpump,,52.62979798,-1.58456966
 West Midlands,Rainbow Inn,Allesley,CV5 9GT,Perm,2025 Q2,Handpump,,52.4229101,-1.5591924
 West Midlands,Woodman,Birmingham: Central,B4 7XG,Perm,2026 Q1,Handpump,,52.48293515,-1.88612515
 West Midlands,Hearsall Inn,Coventry: Chapelfields,CV5 8DS,Perm,2025 Q3,Handpump,,52.40761525,-1.53118085
@@ -532,7 +532,7 @@ Wiltshire,Corsham Club (PMC),Corsham,SN13 0BH,Perm,2025 Q4,Handpump,,51.4318856,
 Wiltshire,Three Brewers,Corsham,SN13 0AS,Perm,2025 Q3,Handpump,,51.4351814,-2.1902461
 Worcestershire,Dead Dove,Worcester: Central,WR1 2LT,Perm,2026 Q1,Handpump,,52.18851,-2.21914
 East Yorkshire,Avenue,Hull,HU5 3TS,Perm,2025 Q4,Handpump,,53.75538,-0.37363
-East Yorkshire,Nolans,Hull,HU1 1JG,Perm,2026 Q1,Handpump,,53.74304356153846,-0.33356755384615383
+East Yorkshire,Nolans,Hull,HU1 1JG,Perm,2026 Q1,Handpump,,53.74304356153846,-0.3335675538461538
 East Yorkshire,Stamfords,Pocklington,YO42 2JL,Perm,2026 Q1,Handpump,,53.931426475,-0.77703685
 North Yorkshire,Ship Inn,Guisborough,TS14 6AN,Perm,2025 Q3,Handpump,,54.53391,-1.05832
 North Yorkshire,Blind Jacks,Knaresborough,HG5 8AL,Perm,2026 Q1,Handpump,,54.00771942857143,-1.4668443714285715
@@ -541,7 +541,7 @@ North Yorkshire,Ketton Ox,Yarm,TS15 9AU,Perm,2026 Q1,Handpump,,54.5110141,-1.355
 South Yorkshire,Roadhouse Bar and Bottles,Rotherham: Broom,S60 3PT,Perm,2025 Q4,Handpump,£4 a pint buy 6 get one free,53.4185609,-1.322329
 South Yorkshire,Alder,Sheffield: Central,S3 8BT,Perm,2025 Q4,Handpump,,53.3919404,-1.4761471
 West Yorkshire,White Cross,Guiseley,LS20 8LY,Perm,2026 Q1,Handpump,,53.877579,-1.725707
-Glamorgan,Birch Brewhouse,Cardiff: Birchgrove,CF14 4AE,Perm,2025 Q4,Handpump,,51.510439760000004,-3.2000133533333335
+Glamorgan,Birch Brewhouse,Cardiff: Birchgrove,CF14 4AE,Perm,2025 Q4,Handpump,,51.51043976,-3.200013353333333
 Glamorgan,Dinas Rock Hotel,Glynneath,SA11 5AP,Perm,2025 Q2,Handpump,,51.74812,-3.61571
 Glamorgan,Prince of Wales,Kenfig,CF33 4PR,Perm,2025 Q2,Gravity,,51.522444,-3.725797
 Glamorgan,Beaufort Arms,Mumbles,SA3 5TF,Perm,2026 Q1,Handpump,,51.5800612,-4.0044685
