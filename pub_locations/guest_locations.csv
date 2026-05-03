@@ -12,7 +12,7 @@ Buckinghamshire,Bugle Horn,Hartwell,HP17 8QP,Guest,2026 Q2,Handpump,,51.8012012,
 Buckinghamshire,Nut and Squirrel,Westcroft,MK4 4DD,Guest,2025 Q4,Handpump,,52.00468789166667,-0.7939632583333333
 Cambridgeshire,Anchor,Bourne,PE10 9JY,Guest,2025 Q2,Handpump,,52.76573978,-0.36412558
 Cambridgeshire,Free Press,Cambridge,CB1 1DU,Guest,2025 Q3,Handpump,,52.2047799,0.1303831
-Cambridgeshire,The Rad (was St Radegund),Cambridge,CB1 1LD,Guest,2026 Q2,Handpump,,52.20743271538461,0.12534373846153846
+Cambridgeshire,The Rad (was St Radegund),Cambridge,CB1 1LD,Guest,2026 Q2,Handpump,,52.20743271538461,0.1253437384615384
 Cambridgeshire,Hare and Hounds,Harlton,CB23 1ES,Guest,2026 Q1,Handpump,,52.1516511,0.028209
 Cambridgeshire,King of the Belgians,Hartford,PE29 1XU,Guest,2025 Q2,Handpump,,52.3377798,-0.1596963
 Cambridgeshire,Lion & Lamb,Milton,CB24 6DF,Guest,2025 Q2,Handpump,,52.244289576,0.162974356
@@ -63,7 +63,7 @@ Derbyshire,Peacock Inn,Derby: Central,DE1 3QS,Guest,2026 Q2,,"""barrel on the ba
 Derbyshire,Royal Standard,Derby: Central,DE1 2ED,Guest,2025 Q4,Handpump,,52.92479993333333,-1.4731269
 Derbyshire,Chaddesen Park Social Club (PMC),Derby: Chaddesden,DE21 6PD,Guest,2025 Q4,Handpump,,52.92650704615384,-1.4435708076923075
 Derbyshire,Toby Carvery,Derby: Chaddesden,DE21 6LZ,Guest,2025 Q3,Handpump,,52.9241416,-1.4375423
-Derbyshire,Oak and Acorn,Derby: Oakwood,DE21 2HT,Guest,2026 Q2,Handpump,,52.941716115789475,-1.4329326210526316
+Derbyshire,Oak and Acorn,Derby: Oakwood,DE21 2HT,Guest,2026 Q2,Handpump,,52.94171611578948,-1.4329326210526316
 Derbyshire,Hoptimist,Derby: Spondon,DE21 7FH,Guest,2025 Q2,Handpump,,52.92031556875,-1.40397869375
 Derbyshire,Stenson Fields,Derby: Stenson Fields,DE24 3JG,Guest,2025 Q3,Handpump,,52.8764977,-1.5039479
 Derbyshire,Coach and Horses,Draycott,DE72 3PS,Guest,2025 Q2,Handpump,"""due to a high price from supplier we only occasionally have it""",52.8942226,-1.3405835
@@ -148,7 +148,7 @@ Hertfordshire,Boot,St Albans: Central,AL3 5DG,Guest,2025 Q2,Handpump,,51.7516429
 Hertfordshire,Essex Arms,Watford: Cassiobury,WD17 3EG,Guest,2025 Q4,Handpump,,51.6676915,-0.4180438
 Isle of Wight,Duke of York,Cowes,PO31 7BT,Guest,2025 Q3,Handpump,,50.759326,-1.2958778
 Isle of Wight,Newport Ale House,Newport,PO30 5AZ,Guest,2025 Q3,Handpump,,50.70066405,-1.2939163833333334
-Isle of Wight,King Lud,Ryde,PO33 2DY,Guest,2026 Q1,Handpump,,50.732532323076924,-1.160367476923077
+Isle of Wight,King Lud,Ryde,PO33 2DY,Guest,2026 Q1,Handpump,,50.73253232307693,-1.160367476923077
 Isle of Wight,Volunteer,Ventnor,PO38 1ES,Guest,2025 Q2,Handpump,,50.59484937142857,-1.2013448714285715
 Kent,Berry,Walmer,CT14 7EQ,Guest,2025 Q3,Handpump,,51.2125627,1.39884065
 Lancashire,Beer Box,Bamber Bridge,PR5 6LA,Guest,2025 Q3,Handpump,,53.73069316470588,-2.661248282352941
@@ -207,9 +207,9 @@ Lincolnshire,Strugglers,Lincoln,LN1 3BG,Guest,2025 Q4,Handpump,,53.2361903,-0.54
 Lincolnshire,Tower Hotel,Lincoln,LN1 3BD,Guest,2025 Q4,Handpump,,53.23611613333333,-0.5404280333333333
 Lincolnshire,Victoria,Lincoln,LN1 3BJ,Guest,2025 Q3,Handpump,reported as on 3/4 times a year (Aug 2025),53.23510119285714,-0.5428652535714286
 Lincolnshire,Royal Oak,Little Cawthorpe,LN11 8LZ,Guest,2026 Q2,Handpump,,53.33448920384616,0.0381672115384615
-Lincolnshire,Cobbles Bar,Louth,LN11 9PU,Guest,2026 Q2,Handpump,,53.36682523333333,-0.005166766666666666
+Lincolnshire,Cobbles Bar,Louth,LN11 9PU,Guest,2026 Q2,Handpump,,53.36682523333333,-0.0051667666666666
 Lincolnshire,Vine,Market Deeping,PE6 8AN,Guest,2026 Q1,Handpump,,52.67700458,-0.3185946
-Lincolnshire,New Inn,North Thoresby,DN36 5QS,Guest,2026 Q2,Handpump,,53.46762032686567,-0.04645028805970149
+Lincolnshire,New Inn,North Thoresby,DN36 5QS,Guest,2026 Q2,Handpump,,53.46762032686567,-0.0464502880597014
 Lincolnshire,Fox and Hounds,Reepham,LN3 4DN,Guest,2026 Q1,Handpump,,53.25111,-0.44232
 Lincolnshire,Green Man,Ropsley,NG33 4BE,Guest,2025 Q3,Handpump,Once in a blue moon guest,52.8957247,-0.5238944
 Lincolnshire,Dambusters,Scampton,LN1 2SD,Guest,2025 Q4,Handpump,,53.30188143333333,-0.5728781666666667
