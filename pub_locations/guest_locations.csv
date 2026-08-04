@@ -28,7 +28,7 @@ Cheshire,Old Swan,Madeley Heath,CW3 9LD,Guest,2025 Q3,Handpump,,53.0079527,-2.32
 Cheshire,White Bear,Middlewich,CW10 9AG,Guest,2026 Q2,Handpump,,53.19274517777778,-2.4466917777777777
 Cheshire,Wickstead Arms,Nantwich,CW5 5ST,Guest,2026 Q1,Handpump,,53.0664496375,-2.5228896125
 Cheshire,Stretton Fox,Stretton,WA4 4NU,Guest,2025 Q4,Handpump,,53.3365467,-2.5693826
-Cheshire,Barley Mow,Warrington,WA1 1QB,Guest,2026 Q2,Handpump,,53.389924752380956,-2.595827995238095
+Cheshire,Barley Mow,Warrington,WA1 1QB,Guest,2026 Q2,Handpump,,53.38992475238096,-2.595827995238095
 Cornwall,Cornubia Inn,Hayle,TR27 4DX,Guest,2026 Q1,Handpump,,50.1907187,-5.4099623333333335
 Cornwall,Old Inn,St Breward,PL30 4PP,Guest,2025 Q4,Handpump,,50.5642024,-4.6883108
 Cornwall,Harbour Pool Club (PMC),St Ives,TR26 1LF,Guest,2025 Q4,Handpump,,50.2137239,-5.4800609
@@ -205,14 +205,14 @@ Lincolnshire,Hope and Anchor,Grimsby,DN31 1NX,Guest,2026 Q1,Handpump,,53.5669372
 Lincolnshire,Rose and Crown,Grimsby,DN33 2HR,Guest,2025 Q3,Handpump,,53.53601545555556,-0.0893635888888888
 Lincolnshire,Wheatsheaf,Grimsby,DN34 5AD,Guest,2025 Q3,Handpump,,53.55679893333333,-0.0909242333333333
 Lincolnshire,Bell,Halton Holegate,PE23 5NY,Guest,2026 Q1,Handpump,"""Regular guest beer""",53.1652169,0.1178604
-Lincolnshire,Nags Head,Keelby,DN41 8EF,Guest,2026 Q1,Handpump,,53.57404577391304,-0.24479777391304347
+Lincolnshire,Nags Head,Keelby,DN41 8EF,Guest,2026 Q1,Handpump,,53.57404577391304,-0.2447977739130434
 Lincolnshire,Golden Eagle,Lincoln,LN5 8BD,Guest,2026 Q1,Handpump,,53.2164604,-0.5459851
 Lincolnshire,Strugglers,Lincoln,LN1 3BG,Guest,2025 Q4,Handpump,,53.2361903,-0.5424567
 Lincolnshire,Tower Hotel,Lincoln,LN1 3BD,Guest,2025 Q4,Handpump,,53.23611613333333,-0.5404280333333333
-Lincolnshire,Victoria,Lincoln,LN1 3BJ,Guest,2025 Q3,Handpump,reported as on 3/4 times a year (Aug 2025),53.235101192857144,-0.5428652535714286
-Lincolnshire,Royal Oak,Little Cawthorpe,LN11 8LZ,Guest,2026 Q2,Handpump,,53.334489203846154,0.03816721153846154
+Lincolnshire,Victoria,Lincoln,LN1 3BJ,Guest,2025 Q3,Handpump,reported as on 3/4 times a year (Aug 2025),53.23510119285714,-0.5428652535714286
+Lincolnshire,Royal Oak,Little Cawthorpe,LN11 8LZ,Guest,2026 Q2,Handpump,,53.33448920384616,0.0381672115384615
 Lincolnshire,Boars Head,Louth,LN11 9HH,Guest,2026 Q2,Handpump,,53.36397583,-0.00387249
-Lincolnshire,Cobbles Bar,Louth,LN11 9PU,Guest,2026 Q2,Handpump,,53.36682523333333,-0.005166766666666666
+Lincolnshire,Cobbles Bar,Louth,LN11 9PU,Guest,2026 Q2,Handpump,,53.36682523333333,-0.0051667666666666
 Lincolnshire,Vine,Market Deeping,PE6 8AN,Guest,2026 Q1,Handpump,,52.67700574,-0.31858816
 Lincolnshire,Black Horse,Nettleham,LN2 2NX,Guest,2026 Q2,Handpump,,53.266896775,-0.4892226
 Lincolnshire,New Inn,North Thoresby,DN36 5QS,Guest,2026 Q2,Handpump,,53.46762032686567,-0.0464502880597014
@@ -295,7 +295,7 @@ Northamptonshire,Red Lion,Thornby,NN6 8SJ,Guest,2025 Q4,Handpump,"""I struggle t
 Northumberland,Barrels,Berwick-upon-Tweed,TD15 1ES,Guest,2025 Q3,Handpump,,55.76833216,-2.00476708
 Nottinghamshire,Chequers,Beeston,NG9 4AF,Guest,2026 Q1,Handpump,,52.92195184285714,-1.2212650714285715
 Nottinghamshire,Nags Head,East Leake,LE12 6PG,Guest,2026 Q2,Handpump,,52.83123444615384,-1.1770531384615384
-Nottinghamshire,Pick & Davy,Eastwood,NG16 3GS,Guest,2026 Q2,Handpump,,53.014406026923076,-1.2937277576923076
+Nottinghamshire,Pick & Davy,Eastwood,NG16 3GS,Guest,2026 Q2,Handpump,,53.01440602692308,-1.2937277576923076
 Nottinghamshire,Caught and Bowled,Giltbrook,NG16 2GG,Guest,2026 Q2,Handpump,"""guest beer which he has twice a month""",53.00680625,-1.28223815
 Nottinghamshire,Stella Taps,Mansfield,NG18 4Al,Guest,2026 Q2,Handpump,,53.13508,-1.19495
 Nottinghamshire,Pit,Newstead,NG15 0BU,Guest,2026 Q2,Handpump,,53.07129323333333,-1.2247670666666666
@@ -307,7 +307,7 @@ Nottinghamshire,Keans Head,Nottingham: Central,NG1 1QA,Guest,2026 Q2,Handpump,,5
 Nottinghamshire,Roundhouse,Nottingham: Central,NG1 6FS,Guest,2026 Q1,Handpump,,52.95166963333333,-1.1554588
 Nottinghamshire,Three Crowns,Nottingham: Central,NG1 6LD,Guest,2026 Q1,Handpump,,52.95459942,-1.15258918
 Nottinghamshire,Bread and Bitter,Nottingham: Mapperley,NG3 5JL,Guest,2026 Q2,Handpump,,52.98381255714286,-1.123202157142857
-Nottinghamshire,Apple Tree,Nottingham: West Bridgford,NG2 7PA,Guest,2026 Q2,Handpump,,52.921811639999994,-1.1541972
+Nottinghamshire,Apple Tree,Nottingham: West Bridgford,NG2 7PA,Guest,2026 Q2,Handpump,,52.92181164,-1.1541972
 Nottinghamshire,Stratford Haven,Nottingham: West Bridgford,NG2 6BA,Guest,2026 Q2,Handpump,,52.931668675,-1.130173925
 Nottinghamshire,Royal Oak,Radcliffe on Trent,NG12 2FD,Guest,2026 Q1,Handpump,,52.9468464,-1.0386137
 Nottinghamshire,Horse and Jockey,Selston,NG16 6FB,Guest,2026 Q2,Handpump,"""very regular guest"" (Sep 25)",53.0808592,-1.30951
@@ -361,7 +361,7 @@ Staffordshire,Loaf and Cheese,Burton U-T: Central,DE14 2NF,Guest,2026 Q2,Handpum
 Staffordshire,Long Hop,Burton U-T: Central,DE14 3RW,Guest,2026 Q3,Handpump,,52.8003768,-1.6290484
 Staffordshire,Burton Tennis and Squash Club (PMC),Burton U-T: Stapenhill,DE15 0LQ,Guest,2026 Q2,Handpump,,52.8041562,-1.60734455
 Staffordshire,Grove,Burton U-T: Stapenhill,DE15 9DQ,Guest,2026 Q3,Handpump,,52.794266564285714,-1.6152591214285714
-Staffordshire,Newhall Arms,Cannock,WS11 1BN,Guest,2026 Q2,Handpump,,52.689455939999995,-2.03236888
+Staffordshire,Newhall Arms,Cannock,WS11 1BN,Guest,2026 Q2,Handpump,,52.68945594,-2.03236888
 Staffordshire,Cricket Club,Caverswall,ST3 6PJ,Guest,2026 Q1,Handpump,,52.99027,-2.09046
 Staffordshire,Bakers Arms,Cheadle,ST10 1AA,Guest,2026 Q2,Handpump,"""on occaision"" (June 25)",52.9874657,-1.9888151
 Staffordshire,Red Lion,Cheddleton,ST13 7HN,Guest,2026 Q1,Handpump,,53.0685405625,-2.0418105375
@@ -408,7 +408,7 @@ Surrey,Rising Sun,Epsom,KT18 5DX,Guest,2025 Q4,Handpump,,51.33073041111111,-0.26
 Surrey,Garibaldi,Redhill,RH1 6PA,Guest,2026 Q2,Handpump,,51.23393326666667,-0.1750303666666667
 Surrey,Beehive,Reigate,RH2 8EG,Guest,2025 Q4,Handpump,,51.2197126,-0.2009453
 Sussex,Claremont,Bognor Regis: Central,PO21 1UH,Guest,2025 Q4,Handpump,,50.782517,-0.6791853
-Sussex,Kings Arms,Brighton,BN2 1RJ,Guest,2026 Q2,Handpump,,50.821747908,-0.13431801599999998
+Sussex,Kings Arms,Brighton,BN2 1RJ,Guest,2026 Q2,Handpump,,50.821747908,-0.1343180159999999
 Sussex,Hillside,Crawley: Pund Hill,RH10 7SX,Guest,2026 Q2,Handpump,,51.1186539,-0.1476006
 Sussex,Cinque Ports,Seaford,BN25 1PP,Guest,2026 Q2,Handpump,,50.7716449,0.104111
 Sussex,Horse and Groom,St Leonards,TN38 0EB,Guest,2026 Q2,Handpump,,50.8519275,0.5566894153846154
