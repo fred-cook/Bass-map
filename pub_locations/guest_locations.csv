@@ -1,7 +1,4 @@
 region,name,place,postcode,status,last_sighted,method,notes,latitude,longitude
-Bedfordshire,Barton Rovers Social (PMC),Barton le Clay,MK45 4SD,Guest,2025 Q4,Handpump,Bar open 7 days a week; memberships £5,51.965352825,-0.429215475
-Bedfordshire,Wellington Arms,Bedford,MK40 2JX,Guest,2026 Q1,Handpump,,52.1413664,-0.4688266
-Bedfordshire,Engineers Arms,Henlow,SG16 6AA,Guest,2025 Q3,Handpump,,52.0300141,-0.2859698
 Bedfordshire,Sir William Peel,Sandy,SG19 1AG,Guest,2026 Q2,Handpump,,52.12841502222222,-0.2868267222222222
 Berkshire,Uncle Toms Cabin,Cookham Dean,SL6 9NT,Guest,2026 Q1,Handpump,,51.560699,-0.7395717
 Berkshire,Lord Grenfell,Maidenhead,SL6 1TW,Guest,2026 Q2,Handpump,,51.5219887,-0.70842935
@@ -9,22 +6,21 @@ Berkshire,Corner House,Windsor,SL4 1BG,Guest,2026 Q1,Handpump,,51.4803522,-0.606
 Buckinghamshire,Bell,Aston Clinton,HP22 5HP,Guest,2025 Q4,Handpump,,51.799481,-0.721151
 Buckinghamshire,Bell and Bear,Emberton,MK46 5DH,Guest,2026 Q1,Handpump,,52.136677,-0.706144
 Buckinghamshire,Bugle Horn,Hartwell,HP17 8QP,Guest,2026 Q2,Handpump,,51.801201,-0.84812
-Buckinghamshire,Chequers,Fenny Stratford,MK2 2BY,Guest,2026 Q2,Handpump,,51.9988918,-0.7166152
+Buckinghamshire,Chequers,Fenny Stratford,MK2 2BY,Guest,2026 Q3,Handpump,,51.9988918,-0.7166152
 Buckinghamshire,Nut and Squirrel,Westcroft,MK4 4DD,Guest,2026 Q2,Handpump,,52.00468789166667,-0.7939632583333333
-Cambridgeshire,Free Press,Cambridge,CB1 1DU,Guest,2025 Q3,Handpump,,52.2047799,0.1303831
 Cambridgeshire,The Rad (was St Radegund),Cambridge,CB1 1LD,Guest,2026 Q3,Handpump,,52.20743271538461,0.1253437384615384
 Cambridgeshire,Hare and Hounds,Harlton,CB23 1ES,Guest,2026 Q1,Handpump,,52.1516511,0.028209
 Cambridgeshire,Blue Bell,Helpston,PE6 7ED,Guest,2026 Q2,Handpump,,52.63408285,-0.3445704
-Cambridgeshire,Palmerston Arms,Peterborough,PE2 9PA,Guest,2026 Q1,Handpump,,52.56556887777778,-0.2492465777777778
+Cambridgeshire,Palmerston Arms,Peterborough,PE2 9PA,Guest,2026 Q3,Handpump,,52.56556887777778,-0.2492465777777778
 Cambridgeshire,Green Man,Trumpington,CB2 9HZ,Guest,2026 Q1,Handpump,,52.1765857,0.1130565
 Cheshire,Olde Cottage,Chester,CH1 3DZ,Guest,2026 Q3,Handpump,,53.194927,-2.8860423
 Cheshire,Brownlow Inn,Congleton,CW12 4TH,Guest,2026 Q1,Handpump,,53.1439912,-2.2576387
-Cheshire,Castle Inn,Congleton,CW12 3LP,Guest,2025 Q3,Handpump,,53.149196,-2.1763467
+Cheshire,Castle Inn,Congleton,CW12 3LP,Guest,2026 Q2,Handpump,,53.149196,-2.1763467
 Cheshire,Farmers,Congleton,CW12 1JY,Guest,2025 Q4,Handpump,,53.16434835714286,-2.2188020571428573
-Cheshire,Olde Kings Arms,Congleton,CW12 1BN,Guest,2026 Q2,Handpump,"Wednesdays all 3 different cask ales are £2.50 a pint, all day",53.16298565384616,-2.2110833615384617
+Cheshire,Olde Kings Arms,Congleton,CW12 1BN,Guest,2026 Q3,Handpump,"Wednesdays all 3 different cask ales are £2.50 a pint, all day",53.16298565384616,-2.2110833615384617
 Cheshire,Hanging Gate,Higher Sutton,SK11 0NG,Guest,2026 Q1,Handpump,,53.2237917,-2.0725346
 Cheshire,Chester Road Tavern,Macclesfield,SK11 8DG,Guest,2026 Q2,Handpump,,53.2605541,-2.1328478
-Cheshire,Old Swan,Madeley Heath,CW3 9LD,Guest,2025 Q3,Handpump,,53.0079527,-2.3259978
+Cheshire,Old Swan,Madeley Heath,CW3 9LD,Guest,2026 Q2,Handpump,,53.0079527,-2.3259978
 Cheshire,White Bear,Middlewich,CW10 9AG,Guest,2026 Q2,Handpump,,53.19274517777778,-2.4466917777777777
 Cheshire,Wickstead Arms,Nantwich,CW5 5ST,Guest,2026 Q1,Handpump,,53.0664496375,-2.5228896125
 Cheshire,Stretton Fox,Stretton,WA4 4NU,Guest,2025 Q4,Handpump,,53.3365467,-2.5693826
@@ -33,13 +29,11 @@ Cornwall,Cornubia Inn,Hayle,TR27 4DX,Guest,2026 Q1,Handpump,,50.1907187,-5.40996
 Cornwall,Old Inn,St Breward,PL30 4PP,Guest,2025 Q4,Handpump,,50.5642024,-4.6883108
 Cornwall,Harbour Pool Club (PMC),St Ives,TR26 1LF,Guest,2025 Q4,Handpump,,50.2137239,-5.4800609
 Cornwall,Mason Brewing Taproom,Threemilestone,TR4 9LD,Guest,2025 Q4,Handpump,,50.26202648636364,-5.122476387878788
-Cumbria,Masons Arms,Gilcrux,CA7 2QX,Guest,2025 Q3,Handpump,,54.729273,-3.375926
-Cumbria,Fetherston Arms,Kirkoswald,CA10 1DQ,Guest,2025 Q3,Handpump,,54.76350703333334,-2.6921255166666667
 Cumbria,Silloth On Solway Golf Club (PMC),Silloth,CA7 4BL,Guest,2026 Q1,Handpump,,54.8586828,-3.3972187
 Derbyshire,Brass Button,Ashbourne,DE6 1EU,Guest,2026 Q2,Handpump,,53.01793447777778,-1.7330590222222224
-Derbyshire,Malt,Aston on Trent,DE72 2AA,Guest,2025 Q3,Handpump,,52.861470366666666,-1.384533783333333
 Derbyshire,Cross Keys,Belper: Central,DE56 1FZ,Guest,2026 Q3,Handpump,,53.02342583888889,-1.4787819055555556
-Derbyshire,Black Lion,Blackfordby,DE11 8AB,Guest,2025 Q3,Handpump,,52.7595357,-1.511715275
+Derbyshire,Waterloo,Biggin,SK17 0DH,Guest,2026 Q1,Handpump,,53.1324829,-1.7736071
+Derbyshire,Black Lion,Blackfordby,DE11 8AB,Guest,2026 Q3,Handpump,,52.7595357,-1.511715275
 Derbyshire,Windmill,Breadsall,DE21 4FY,Guest,2026 Q2,Handpump,,52.9490612,-1.4441315
 Derbyshire,Barrel Inn,Breton,S32 5QD,Guest,2026 Q2,Handpump,,53.2979594,-1.7004549
 Derbyshire,Vault,Buxton,SK17 6EU,Guest,2026 Q2,Handpump,,53.25488542857143,-1.915560242857143
@@ -47,33 +41,33 @@ Derbyshire,Castle,Castleton,S33 8WG,Guest,2025 Q4,Handpump,,53.34341044285714,-1
 Derbyshire,Crossbar,Chellaston,DE73 6TQ,Guest,2026 Q1,Handpump,,52.87437901538461,-1.4230791153846154
 Derbyshire,New Pin,Chellaston,DE73 5UA,Guest,2026 Q1,Handpump,,52.86772643333333,-1.4388145
 Derbyshire,Pig and Pump,Chesterfield: Central,S41 7TJ,Guest,2026 Q2,Handpump,,53.23596046666667,-1.4238385333333334
+Derbyshire,Royal Oak,Chesterfield: Central,S40 1PX,Guest,2026 Q3,Handpump,,53.235391,-1.4276556
+Derbyshire,Holly Bush,Church Broughton,DE65 5AS,Guest,2026 Q3,Handpump,,52.899611551724135,-1.693582575862069
 Derbyshire,Rising Sun,Church Gresley,DE11 9LY,Guest,2025 Q4,Handpump,,52.76123,-1.56452
 Derbyshire,Marquis,Codnor,DE5 9SP,Guest,2025 Q4,Handpump,,53.0327458,-1.3798038
 Derbyshire,Cliff Inn,Crich,DE4 5DP,Guest,2026 Q1,Handpump,,53.09109661428571,-1.4870412
 Derbyshire,Old Black Swan,Crich,DE4 5DD,Guest,2026 Q2,Handpump,,53.0839569,-1.4788744166666663
-Derbyshire,Grouse Inn,Darley Dale,DE4 2FT,Guest,2026 Q2,Handpump,,53.1670582,-1.5993067
+Derbyshire,Grouse Inn,Darley Dale,DE4 2FT,Guest,2026 Q3,Handpump,,53.1670582,-1.5993067
+Derbyshire,Markeaton,Derby: Allestree,DE22 2TF,Guest,2026 Q1,Handpump,,52.94274798157895,-1.502848505263158
 Derbyshire,Needles,Derby: Alvaston,DE24 0UQ,Guest,2026 Q2,Handpump,,52.8865684,-1.4139658
 Derbyshire,Bless,Derby: Central,DE1 3GU,Guest,2026 Q2,Handpump,,52.92592388,-1.4805046
 Derbyshire,Brunswick,Derby: Central,DE1 2RU,Guest,2026 Q1,Handpump,,52.916979646875,-1.463928921875
 Derbyshire,Peacock Inn,Derby: Central,DE1 3QS,Guest,2026 Q2,,"""barrel on bar Derby home games"" (June 25). Quality warning May 26",52.926007778571424,-1.4710974642857144
 Derbyshire,Royal Standard,Derby: Central,DE1 2ED,Guest,2026 Q3,Handpump,,52.92479993333333,-1.4731269
-Derbyshire,Chaddesen Park Social Club (PMC),Derby: Chaddesden,DE21 6PD,Guest,2026 Q2,Handpump,,52.92650704615384,-1.4435708076923075
-Derbyshire,Toby Carvery,Derby: Chaddesden,DE21 6LZ,Guest,2025 Q3,Handpump,,52.9241416,-1.4375423
 Derbyshire,Oak and Acorn,Derby: Oakwood,DE21 2HT,Guest,2026 Q2,Handpump,,52.94171611578948,-1.4329326210526316
-Derbyshire,Stenson Fields,Derby: Stenson Fields,DE24 3JG,Guest,2025 Q3,Handpump,,52.8764977,-1.5039479
 Derbyshire,Coach and Horses,Draycott,DE72 3PS,Guest,2026 Q2,Handpump,"""due to a high price from supplier we only occasionally have it""",52.8942226,-1.3405835
 Derbyshire,Kings Head,Duffield,DE56 4EH,Guest,2026 Q2,Handpump,,52.9872532625,-1.4877583291666665
 Derbyshire,Hawk and Buckle,Etwall,DE65 6LP,Guest,2026 Q2,Handpump,,52.88508271578947,-1.5999481368421054
 Derbyshire,Commercial,Glossop,SK13 7SH,Guest,2026 Q1,Handpump,,53.4448637,-1.9393054
 Derbyshire,Star Inn,Glossop,SK13 7DD,Guest,2026 Q2,Handpump,Alternates with TTL (Sep 25),53.4445829,-1.9485931
 Derbyshire,Devonshire Arms,Hartington,SK17 0AL,Guest,2026 Q2,Handpump,,53.1405233,-1.8096755
+Derbyshire,Drunken Dog,Heanor,DE75 7EF,Guest,2026 Q3,Handpump,,53.01205834285714,-1.3533945
 Derbyshire,Jolly Colliers,Heanor,DE75 7QL,Guest,2025 Q4,Handpump,,53.0127383,-1.3623206
 Derbyshire,Redemption Ale House,Heanor,DE75 7GE,Guest,2026 Q3,Handpump,,53.0138383,-1.3550408
-Derbyshire,Spotted Cow,Holbrook,DE56 0TA,Guest,2026 Q2,Handpump,,53.00028096666667,-1.4589349666666669
-Derbyshire,General Havelock,Ilkeston,DE7 5FW,Guest,2026 Q2,Handpump,,52.9649746137931,-1.3071455137931034
+Derbyshire,Spotted Cow,Holbrook,DE56 0TA,Guest,2026 Q3,Handpump,,53.00028096666667,-1.4589349666666669
+Derbyshire,General Havelock,Ilkeston,DE7 5FW,Guest,2026 Q3,Handpump,,52.9649746137931,-1.3071455137931034
 Derbyshire,Rutland Cottage,Ilkeston,DE7 8TE,Guest,2026 Q1,Handpump,,52.98571166666667,-1.3167742777777778
 Derbyshire,Red Lion,Kniveton,DE6 1JH,Guest,2026 Q2,Handpump,"""regular guest"" (Dec 25)",53.04945178,-1.69126784
-Derbyshire,Knockerdown Inn,Knockerdown,DE6 1NQ,Guest,2025 Q3,Handpump,,53.06380232,-1.65176974
 Derbyshire,Colliery Smokehouse,Linton,DE12 6PB,Guest,2026 Q3,Handpump,,52.7421574,-1.585457
 Derbyshire,Sawley Junction,Long Eaton,NG10 3JU,Guest,2026 Q3,Gravity,,52.885945924,-1.285348584
 Derbyshire,Crown Inn,Marston Montgomery,DE6 2FF,Guest,2026 Q1,Handpump,,52.93860715,-1.800854375
@@ -82,46 +76,51 @@ Derbyshire,Remarkable Hare,Matlock,DE4 3LT,Guest,2025 Q4,Handpump,,53.1364061,-1
 Derbyshire,Alma,Melbourne,DE73 8FE,Guest,2025 Q4,Handpump,,52.82466533409091,-1.4292152045454545
 Derbyshire,Binary,Mickleover,DE3 0GR,Guest,2026 Q2,Handpump,,51.5894856,-2.9970099
 Derbyshire,Spanker,Nether Heage,DE56 2AT,Guest,2026 Q1,Handpump,,53.0514582,-1.4637124
-Derbyshire,Boot Inn,Repton,DE65 6FT,Guest,2025 Q4,Handpump,,52.83988205,-1.5495123
+Derbyshire,Boot Inn,Repton,DE65 6FT,Guest,2026 Q3,Handpump,,52.83988205,-1.5495123
 Derbyshire,Talbot Taphouse,Ripley: Central,DE5 3LT,Guest,2026 Q3,Handpump,,53.05372136296296,-1.4051711037037038
 Derbyshire,Groovers Arms,Ripley: Peasehill,DE5 3JN,Guest,2026 Q3,Gravity,,53.04349,-1.3947182
 Derbyshire,Roston Inn,Roston,DE6 2EE,Guest,2026 Q2,Handpump,,52.9666845,-1.8104137
 Derbyshire,Globe Inn,Snarestone,DE12 7DB,Guest,2026 Q2,Handpump,,52.681002207894736,-1.4907591078947369
 Derbyshire,Devonshire Arms,Somercotes,DE55 4HX,Guest,2026 Q2,Handpump,,53.07963303333333,-1.367604
 Derbyshire,Vernon Arms,Sudbury,DE6 5HS,Guest,2026 Q3,Handpump,,52.88570315,-1.7621881
+Derbyshire,Gate,Tansley,DE4 5FN,Guest,2026 Q3,Handpump,,53.13833845,-1.52150385
+Derbyshire,Thorn Tree,Waingroves,DE5 9TE,Guest,2026 Q3,Handpump,,53.03894845102041,-1.385886675510204
 Derbyshire,Compamigos (was Boardwalk),Willington,DE65 6DW,Guest,2025 Q4,Handpump,,52.86139488235294,-1.5546736705882354
 Derbyshire,Miners Standard,Winster,DE4 2DR,Guest,2026 Q2,Handpump,"""We sell draught Bass intermittently alongside Pedigree""",53.1387591,-1.6460544
 Derbyshire,Bulls Head,Youlgrave,DE45 1UR,Guest,2026 Q3,Handpump,"""only as an ocassional special"" Jun 26",53.1751867,-1.6862137
+Derbyshire,George,Youlgrave,DE45 1UW,Guest,2026 Q2,Handpump,,53.1740655,-1.6898941
 Devon,New Inn,Alphington,EX2 8TA,Guest,2026 Q2,Handpump,,50.6998512,-3.5339795
 Devon,Cork and Bottle,Barnstaple,EX31 1JB,Guest,2025 Q4,Handpump,,51.0821374,-4.0615955
-Devon,Bridford Inn,Bridford,EX6 7HT,Guest,2025 Q3,Handpump,"""regular guest; pair of Bass hunters who we ring when it’s going on""",50.6646426,-3.6772021
+Devon,Bridford Inn,Bridford,EX6 7HT,Guest,2026 Q3,Handpump,"""regular guest; pair of Bass hunters who we ring when it’s going on""",50.6646426,-3.6772021
 Devon,Bear and Blacksmith,Chillington,TQ7 2LD,Guest,2025 Q4,Handpump,,50.272821,-3.695763
-Devon,Drum Inn,Cockington,TQ2 6XA,Guest,2026 Q1,Handpump,,50.463993,-3.561068
+Devon,Drum Inn,Cockington,TQ2 6XA,Guest,2026 Q3,Handpump,,50.463993,-3.561068
 Devon,Gerrard Arms,Colyton,EX24 6JN,Guest,2025 Q4,Handpump,every Friday until gone (Oct 25),50.742066,-3.070311
 Devon,Wild Goose,Combeinteignhead,TQ12 4RA,Guest,2026 Q1,Handpump,,50.533342,-3.550128
 Devon,Jack Rabbit,Derriford,PL6 8BD,Guest,2026 Q2,Handpump,,50.418258,-4.121141
 Devon,Heanton Court,Heanton,EX31 4AX,Guest,2025 Q4,Handpump,,51.0946268,-4.1244167
 Devon,King of Prussia,Kingsbridge,TQ7 1JB,Guest,2026 Q2,Handpump,"""rotate it on every other firkin""",50.2841659,-3.7762316
-Devon,Hotel Mount Batten,"Mount Batten, Turnchapel",PL9 9SJ,Guest,2025 Q3,Handpump,,50.35893,-4.12699
+Devon,Hotel Mount Batten,"Mount Batten, Turnchapel",PL9 9SJ,Guest,2026 Q2,Handpump,,50.35893,-4.12699
 Devon,Henrys Bar,Paignton,TQ4 6AJ,Guest,2026 Q2,Handpump,,50.4353734375,-3.5619763625
 Devon,Bank,Plymouth: Central,PL1 2TG,Guest,2025 Q4,Handpump,,50.36951,-4.14435
 Devon,Ferryboat,Shaldon,TQ14 0DL,Guest,2025 Q4,Handpump,,50.54041745,-3.50432035
-Devon,Market Inn,Tavistock,PL19 9BB,Guest,2025 Q3,Handpump,,50.54674,-4.14448
+Devon,Stoke Canon,Stoke Canon,EX5 4AR,Guest,2026 Q3,Handpump,,50.7712923,-3.5067397
+Devon,Market Inn,Tavistock,PL19 9BB,Guest,2026 Q2,Handpump,,50.54674,-4.14448
 Devon,Village Inn,Thurlestone,TQ7 3NN,Guest,2026 Q2,Handpump,,50.2710508,-3.8617841
 Devon,Tides Out,Woolacombe,EX34 7BP,Guest,2026 Q2,Handpump,,51.17269,-4.20553
-Dorset,Stour Inn,Blandford Forum,DT11 9LH,Guest,2025 Q3,Handpump,,50.8518213,-2.1663599
 Dorset,Iford Bridge,Bournemouth: Iford,BH6 5RG,Guest,2026 Q2,Handpump,,50.7407029,-1.80727845
 Dorset,King Charles,Poole,BH15 1JN,Guest,2025 Q4,Handpump,"""order it whenever it’s on supplier’s list - sells really well"" (Oct 25)",50.7128317,-1.9900365
 Dorset,Butchers Dog,Wimborne,BH21 1DS,Guest,2025 Q4,Handpump,,50.79853013333333,-1.9862623666666668
-Durham,Butchers Arms,Chester-le-Street,DH3 3QD,Guest,2026 Q2,Handpump,,54.855814460000005,-1.5732272
+Durham,Butchers Arms,Chester-le-Street,DH3 3QD,Guest,2026 Q3,Handpump,,54.855814460000005,-1.5732272
+Durham,Grey Horse,Consett,DH8 6NF,Guest,2026 Q2,Handpump,,54.8545791,-1.8250173
+Durham,Britannia,Darlington,DL3 6LR,Guest,2026 Q3,Handpump,,54.5269931,-1.5578195
 Durham,Station House,Durham,DH1 4SE,Guest,2026 Q1,Handpump,"""2-3 times a year""",54.77827843333333,-1.5836405
 Durham,Ye Old Elm Tree,Durham,DH1 4PS,Guest,2026 Q2,Handpump,"""every now and again, try to get some for National Bass Day""",54.77561908333334,-1.5821120222222222
-Durham,Turbinia,Newton Aycliffe,DL5 7PA,Guest,2025 Q3,Handpump,Quality warning Aug 2025,54.6256024,-1.582396
 Durham,Crown and Crossed Swords,Shotley Bridge,DH8 0HU,Guest,2026 Q2,Handpump,,54.8697426,-1.8587961
 Durham,Frog and Ferret,Spennymoor,DL16 7RS,Guest,2026 Q2,Handpump,,54.69822179,-1.58859949
 Durham,Victoria Inn,Witton le Wear,DL14 0AS,Guest,2026 Q2,Handpump,,54.67580006666666,-1.7724773333333332
 Essex,Crooked Billet,Leigh on Sea: Old Leigh,SS9 2EP,Guest,2026 Q1,Handpump,,51.5408208,0.6481516
-Gloucs & Bristol,Three Brooks,Bradley Stoke,BS32 8EF,Guest,2025 Q3,Handpump,,51.534251,-2.548807
+Essex,Kings Head,North Weald,CM16 6BU,Guest,2026 Q3,Handpump,,51.7134413,0.1643133
+Gloucs & Bristol,Three Brooks,Bradley Stoke,BS32 8EF,Guest,2026 Q2,Handpump,,51.534251,-2.548807
 Gloucs & Bristol,Brunel,Bristol: Bedminster,BS3 5AZ,Guest,2025 Q4,Handpump,,51.43566501666667,-2.594417733333333
 Gloucs & Bristol,Mall,Bristol: Clifton,BS8 4DR,Guest,2026 Q1,Handpump,,51.45481461111111,-2.6205521666666667
 Gloucs & Bristol,Crown and Horseshoe,Bristol: Oldland Common,BS30 8TU,Guest,2025 Q4,Handpump,,51.44447393684211,-2.473549610526316
@@ -132,8 +131,8 @@ Gloucs & Bristol,Grapes,Chipping Sodbury,BS37 6AS,Guest,2026 Q2,Handpump,,51.538
 Gloucs & Bristol,Horseshoe,Chipping Sodbury,BS37 6AH,Guest,2026 Q1,Handpump,,51.53791031428571,-2.394453671428572
 Gloucs & Bristol,Kings Arms,Newent,GL18 1BD,Guest,2026 Q1,Handpump,,51.9338747,-2.4089205
 Gloucs & Bristol,Berkeley Arms,Purton,GL13 9HU,Guest,2026 Q2,Handpump,,51.7388769,-2.4491795
-Gloucs & Bristol,Cross House Tavern,Tewkesbury,GL20 5AB,Guest,2026 Q2,Handpump,,51.9924426,-2.157871075
-Gloucs & Bristol,BMI Club,Upton St Leonards,GL4 8AG,Guest,2025 Q3,Handpump,,51.83199045,-2.19948265
+Gloucs & Bristol,Cross House Tavern,Tewkesbury,GL20 5AB,Guest,2026 Q3,Handpump,,51.9924426,-2.157871075
+Gloucs & Bristol,BMI Club,Upton St Leonards,GL4 8AG,Guest,2026 Q2,Handpump,,51.83199045,-2.19948265
 Gloucs & Bristol,White Lion,Westbury on Trym,BS9 3HN,Guest,2026 Q3,Handpump,,51.4950389,-2.6172555
 Hampshire,Chilworth Arms,Chilworth,SO16 7JZ,Guest,2026 Q1,Handpump,,50.9643603,-1.4170954
 Hampshire,Ebenezers,Hythe,SO45 6AR,Guest,2026 Q2,Handpump,,50.8701031,-1.4004845
@@ -145,11 +144,9 @@ Hertfordshire,Verulam Arms,St Albans: Central,AL3 4QE,Guest,2026 Q2,Handpump,,51
 Hertfordshire,Essex Arms,Watford: Cassiobury,WD17 3EG,Guest,2025 Q4,Handpump,,51.6676915,-0.4180438
 Hertfordshire,O'Neills,Watford: Centre,WD17 1ET,Guest,2026 Q2,Handpump,Quality warning May 2026,51.6642379,-0.3976917
 Isle of Wight,Wheatsheaf,Brading,PO36 0DQ,Guest,2026 Q2,Handpump,,50.68073272,-1.14340292
-Isle of Wight,Duke of York,Cowes,PO31 7BT,Guest,2025 Q3,Handpump,,50.759326,-1.2958778
-Isle of Wight,Newport Ale House,Newport,PO30 5AZ,Guest,2025 Q3,Handpump,,50.70066405,-1.2939163833333334
+Isle of Wight,Newport Ale House,Newport,PO30 5AZ,Guest,2026 Q3,Handpump,,50.70066405,-1.2939163833333334
 Isle of Wight,King Lud,Ryde,PO33 2DY,Guest,2026 Q2,Handpump,,50.73253232307693,-1.160367476923077
-Kent,Berry,Walmer,CT14 7EQ,Guest,2025 Q3,Handpump,,51.2125627,1.39884065
-Lancashire,Beer Box,Bamber Bridge,PR5 6LA,Guest,2025 Q3,Handpump,,53.73069316470588,-2.661248282352941
+Lancashire,Beer Box,Bamber Bridge,PR5 6LA,Guest,2026 Q2,Handpump,,53.73069316470588,-2.661248282352941
 Lancashire,Highfield,Blackpool:Merton,FY4 3LA,Guest,2026 Q1,Handpump,,53.7889299,-3.0255109
 Lancashire,Devonshire Arms,Blackpool: North Shore,FY2 0TL,Guest,2026 Q1,Handpump,,53.8319281,-3.0412592
 Lancashire,Cricket Club,Blackpool: Stanley Park,FY3 9EQ,Guest,2026 Q1,Handpump,,53.814838566666666,-3.027994333333333
@@ -159,9 +156,7 @@ Lancashire,Hive,Hesketh Bank,PR4 6SN,Guest,2026 Q2,Handpump,,53.6980733,-2.83857
 Lancashire,Pleasant Retreat,Lostock Hall,PR5 5RU,Guest,2025 Q4,Handpump,,53.72591472727272,-2.692865896969697
 Lancashire,County Hotel,Lytham St Annes,FY8 5LH,Guest,2026 Q3,Handpump,,53.73704535,-2.965641283333333
 Lancashire,Fairhaven,Lytham St Annes,FY8 1YD,Guest,2026 Q1,Handpump,,53.738463,-3.000801
-Lancashire,Lytham Cricket Sports Club (PMC),Lytham St Annes,FY8 5QD,Guest,2025 Q4,Handpump,"""open to all during sporting events, public sign-in by member otherwise""",53.737861,-2.9727856
-Lancashire,Morecambe Hotel & Restaurant,Morecambe,LA4 5HX,Guest,2025 Q3,Handpump,,54.0747035,-2.8599554
-Lancashire,Swan with Two Necks,Pendleton,BB7 1PT,Guest,2025 Q2,Handpump,,53.85221,-2.372865
+Lancashire,Lytham Cricket Sports Club (PMC),Lytham St Annes,FY8 5QD,Guest,2026 Q3,Handpump,"""open to all during sporting events, public sign-in by member otherwise""",53.737861,-2.9727856
 Lancashire,Hesketh Arms,Rufford,L40 1SB,Guest,2026 Q2,Handpump,,53.632968,-2.817567
 Lancashire,Black Bull,Tockholes,BB3 0LL,Guest,2025 Q4,Handpump,Home of Three Bs Brewery,53.71651,-2.51445
 Leicestershire,Mushroom Hall,Albert Village,DE11 8EN,Guest,2026 Q2,Handpump,Rotates with Pedi,52.759861,-1.549937
@@ -172,11 +167,12 @@ Leicestershire,Queens Head,Ashby-de-la-Zouch,LE65 1AH,Guest,2025 Q4,Handpump,,52
 Leicestershire,Royal,Broughton Astley,LE9 6QB,Guest,2026 Q2,Handpump,,52.5356041,-1.2323141
 Leicestershire,Apiary,Castle Donington,DE74 2LA,Guest,2026 Q1,Handpump,,52.841231,-1.338598
 Leicestershire,Railway,Countesthorpe,LE8 5TD,Guest,2026 Q1,Handpump,,52.55360678,-1.1500377199999998
+Leicestershire,Shoulder of Mutton,Foxton,LE16 7RB,Guest,2026 Q2,Handpump,,52.50548,-0.966796
 Leicestershire,Ashby Tavern,Hinckley,LE10 1SL,Guest,2025 Q4,Handpump,,52.5507006,-1.366861
 Leicestershire,New Baron,Hinckley,LE10 0AZ,Guest,2026 Q1,Handpump,,52.5411101,-1.374022
 Leicestershire,Wharf Inn,Hinckley,LE10 0NQ,Guest,2026 Q2,Handpump,,52.5353167,-1.3955219
 Leicestershire,Ram,Ibstock,LE67 6LG,Guest,2026 Q3,Handpump,,52.68794043333333,-1.3968201
-Leicestershire,Red Lion,Kegworth,DE74 2DA,Guest,2026 Q2,Handpump,,52.835878529545454,-1.2812440363636364
+Leicestershire,Red Lion,Kegworth,DE74 2DA,Guest,2026 Q3,Handpump,,52.835878529545454,-1.2812440363636364
 Leicestershire,Blackbird,Leicester: Abbey Park,LE4 0FW,Guest,2025 Q4,Handpump,,52.6471233,-1.1471091
 Leicestershire,Cricketers,Leicester: Aylestone,LE2 8AD,Guest,2026 Q2,Handpump,,52.6087903,-1.1429227
 Leicestershire,Castle,Leicester: Central,LE1 5WH,Guest,2026 Q3,Handpump,,52.632,-1.14047
@@ -185,12 +181,9 @@ Leicestershire,Oat,Little Bowden,LE16 8AN,Guest,2026 Q2,Handpump,Quality warning
 Leicestershire,Needle and Pin,Loughborough,LE11 5BG,Guest,2026 Q3,Handpump,"""Once every couple of months"" (July 2026)",52.7732504,-1.2088189
 Leicestershire,White Hart,Loughborough,LE11 1UD,Guest,2026 Q2,Handpump,,52.7734874,-1.2050414
 Leicestershire,Fox,Lutterworth,LE17 4BN,Guest,2026 Q2,Handpump,,52.45315,-1.20042
-Leicestershire,Dixie Arms,Market Bosworth,CV13 0JW,Guest,2025 Q3,Handpump,,52.6244591,-1.401462
 Leicestershire,Crown,Melton Mowbray,LE13 1AE,Guest,2026 Q2,,,52.763534926666665,-0.8852189333333333
 Leicestershire,Gelsmoor,Newbold Coleorton,LE67 8HP,Guest,2025 Q4,Handpump,,52.759913,-1.399135
-Leicestershire,Blacksmiths Arms,Quorn,LE12 8EU,Guest,2025 Q3,Handpump,,52.742399,-1.170507
 Leicestershire,Windmill Inn,Redmile,NG13 0GA,Guest,2025 Q4,Handpump,,52.91067,-0.8145794
-Leicestershire,Horse and Trumpet,Sileby,LE12 7LP,Guest,2025 Q3,Handpump,,52.731221,-1.111808
 Leicestershire,Station Inn,Swannington,LE67 8RE,Guest,2026 Q1,Handpump,,52.7354486,-1.393147
 Leicestershire,George and Dragon,Thringstone,LE67 8UH,Guest,2026 Q2,Handpump,,52.759717,-1.374451
 Leicestershire,Star,Thrussington,LE7 4UH,Guest,2026 Q1,Handpump,,52.73711,-1.04253
@@ -198,66 +191,59 @@ Leicestershire,Swan,Ullesthorpe,LE17 5BT,Guest,2025 Q4,Handpump,,52.4170699,-1.2
 Lincolnshire,Royal Oak,Aubourn,LN5 9DT,Guest,2026 Q2,Handpump,,53.15359650731707,-0.6198426121951219
 Lincolnshire,Red Lion,Broughton,DN20 0HY,Guest,2026 Q2,Handpump,,53.56585074285714,-0.5510460214285715
 Lincolnshire,Yarborough Hunt,Brigg,DN20 8NS,Guest,2025 Q4,Handpump,,53.5517299,-0.4950445
-Lincolnshire,Crown,Glentham,LN8 2EQ,Guest,2026 Q2,Handpump,,53.3999808,-0.4935566
-Lincolnshire,Nobody Inn,Grantham,NG31 6NU,Guest,2026 Q1,Handpump,,52.91510185,-0.64444125
 Lincolnshire,Duke of Wellington,Grimsby,DN31 1QD,Guest,2026 Q1,Handpump,,53.565916975,-0.0806967333333333
 Lincolnshire,Hope and Anchor,Grimsby,DN31 1NX,Guest,2026 Q1,Handpump,,53.56693728928571,-0.081139425
-Lincolnshire,Rose and Crown,Grimsby,DN33 2HR,Guest,2025 Q3,Handpump,,53.53601545555556,-0.0893635888888888
-Lincolnshire,Wheatsheaf,Grimsby,DN34 5AD,Guest,2025 Q3,Handpump,,53.55679893333333,-0.0909242333333333
+Lincolnshire,Rose and Crown,Grimsby: Scartho,DN33 2HR,Guest,2026 Q1,Handpump,,53.53601545555556,-0.0893635888888888
 Lincolnshire,Bell,Halton Holegate,PE23 5NY,Guest,2026 Q1,Handpump,"""Regular guest beer""",53.1652169,0.1178604
 Lincolnshire,Nags Head,Keelby,DN41 8EF,Guest,2026 Q1,Handpump,,53.57404577391304,-0.2447977739130434
 Lincolnshire,Golden Eagle,Lincoln,LN5 8BD,Guest,2026 Q1,Handpump,,53.2164604,-0.5459851
 Lincolnshire,Strugglers,Lincoln,LN1 3BG,Guest,2025 Q4,Handpump,,53.2361903,-0.5424567
 Lincolnshire,Tower Hotel,Lincoln,LN1 3BD,Guest,2025 Q4,Handpump,,53.23611613333333,-0.5404280333333333
-Lincolnshire,Victoria,Lincoln,LN1 3BJ,Guest,2025 Q3,Handpump,reported as on 3/4 times a year (Aug 2025),53.23510119285714,-0.5428652535714286
 Lincolnshire,Royal Oak,Little Cawthorpe,LN11 8LZ,Guest,2026 Q2,Handpump,,53.33448920384616,0.0381672115384615
 Lincolnshire,Boars Head,Louth,LN11 9HH,Guest,2026 Q2,Handpump,,53.36397583,-0.00387249
 Lincolnshire,Cobbles Bar,Louth,LN11 9PU,Guest,2026 Q2,Handpump,,53.36682523333333,-0.0051667666666666
 Lincolnshire,Vine,Market Deeping,PE6 8AN,Guest,2026 Q1,Handpump,,52.67700574,-0.31858816
-Lincolnshire,Black Horse,Nettleham,LN2 2NX,Guest,2026 Q2,Handpump,,53.266896775,-0.4892226
+Lincolnshire,Black Horse,Nettleham,LN2 2NX,Guest,2026 Q3,Handpump,,53.266896775,-0.4892226
 Lincolnshire,New Inn,North Thoresby,DN36 5QS,Guest,2026 Q2,Handpump,,53.46762032686567,-0.0464502880597014
 Lincolnshire,Fox and Hounds,Reepham,LN3 4DN,Guest,2026 Q1,Handpump,,53.25111,-0.44232
-Lincolnshire,Green Man,Ropsley,NG33 4BE,Guest,2025 Q3,Handpump,"""Once in a blue moon"" guest",52.8957247,-0.5238944
 Lincolnshire,Dambusters,Scampton,LN1 2SD,Guest,2025 Q4,Handpump,,53.30188143333333,-0.5728781666666667
 Lincolnshire,Rose and Crown,Scartho,DN33 2HR,Guest,2026 Q2,Handpump,,53.53601545555556,-0.0893635888888888
 Lincolnshire,Scartho Bowling Club (PMC),Scartho,DN33 2ND,Guest,2025 Q4,Handpump,,53.53501678235294,-0.0918717764705882
 Lincolnshire,Crafty Local Ale House,Skegness,PE25 2AH,Guest,2026 Q1,Handpump,,53.14360913333333,0.3391063
 Lincolnshire,Red Lion,Wellingore,LN5 0HW,Guest,2026 Q1,Handpump,,53.0982399,-0.53269
-Lincolnshire,Carpenters Arms,Westwoodside,DN9 2AT,Guest,2026 Q2,Handpump,,53.48878655,-0.8681646
+Lincolnshire,Carpenters Arms,Westwoodside,DN9 2AT,Guest,2026 Q3,Handpump,,53.48878655,-0.8681646
 Lincolnshire,Lancaster Inn,Woodhall Spa,LN10 6ST,Guest,2026 Q1,Handpump,,53.15241243,-0.213049125
-Greater London,George and Dragon,Acton,W3 9DJ,Guest,2025 Q3,Handpump,,51.5072726,-0.2718046
 Greater London,Toby Carvery,Beckenham BR3,BR3 3HQ,Guest,2026 Q1,Handpump,,51.38971645,-0.0270578
 Greater London,Kings Arms,Bethnal Green E2,E2 6EY,Guest,2026 Q3,Handpump,"""rotation; every few months or so""",51.5256938,-0.0657388
 Greater London,Royal Standard,Blackheath SE3,SE3 7JQ,Guest,2026 Q3,Handpump,,51.4767777,0.0187041
-Greater London,Ship,Borough SE1,SE1 1DX,Guest,2026 Q2,Handpump,,51.4994548,-0.096753
+Greater London,Ship,Borough SE1,SE1 1DX,Guest,2026 Q3,Handpump,,51.4994548,-0.096753
 Greater London,Crown Tavern,Clerkenwell EC1R,EC1R 0EG,Guest,2026 Q1,Handpump,,51.523179,-0.1052383
 Greater London,Park Tavern,Eltham SE9,SE9 5DA,Guest,2025 Q4,Handpump,,51.4497467,0.0544021
 Greater London,Castle,Farringdon EC1M,EC1M 6DB,Guest,2026 Q1,Handpump,,51.5202193,-0.1041739
 Greater London,Jackalope,Fitzrovia W1G,W1G 7EQ,Guest,2026 Q1,Handpump,,51.520079,-0.1461863
-Greater London,Crown and Sceptre,Fitzrovia W1W,W1W 6SD,Guest,2025 Q3,Handpump,,51.5193013,-0.1407218
-Greater London,Green Man,Fitzrovia W1W,W1W 7EP,Guest,2025 Q3,Handpump,,51.5189377,-0.1394807
+Greater London,Green Man,Fitzrovia W1W,W1W 7EP,Guest,2026 Q2,Handpump,,51.5189377,-0.1394807
 Greater London,Gipsy Moth,Greenwich SE10,SE10 9BL,Guest,2026 Q3,Handpump,,51.48170981612903,-0.0100282806451612
 Greater London,Observatory,Greenwich North SE10,SE10 0DY,Guest,2025 Q4,Handpump,,51.5041191,0.0033645
 Greater London,Swan,Hammersmith W6,W6 0DZ,Guest,2025 Q4,Handpump,,51.49309,-0.22509
 Greater London,Duke of St Albans,Highgate NW5,NW5 1QX,Guest,2026 Q1,Handpump,,51.5614305,-0.1504467
-Greater London,Compton Arms,Islington N1,N1 2XD,Guest,2026 Q1,Handpump,,51.5436556,-0.1020128
+Greater London,Compton Arms,Islington N1,N1 2XD,Guest,2026 Q3,Handpump,,51.5436556,-0.1020128
 Greater London,Hen and Chickens,Islington N1,N1 2NA,Guest,2026 Q1,Handpump,,51.5460286,-0.1014129333333333
-Greater London,Island Queen,Islington N1,N1 8HD,Guest,2025 Q3,Handpump,,51.5331975,-0.0983836
+Greater London,Island Queen,Islington N1,N1 8HD,Guest,2026 Q3,Handpump,,51.5331975,-0.0983836
 Greater London,Drayton Arms,Kensington SW5,SW5 0LJ,Guest,2025 Q4,Handpump,,51.49068936666667,-0.1835903
 Greater London,Mall Tavern,Kensington W8,W8 4RU,Guest,2026 Q1,Handpump,,51.5084715,-0.193934
 Greater London,Bear and Staff,Leicester Square WC2H,WC2H 7AX,Guest,2025 Q4,Handpump,,51.510841,-0.128675
-Greater London,Leyton Engineer,Leyton E10,E10 5QN,Guest,2025 Q3,Handpump,,51.5597059,-0.0086171559999999
-Greater London,North Star,Leytonstone E11,E11 3AR,Guest,2025 Q3,Handpump,,51.56964731666667,0.0154903722222222
 Greater London,Rake,London Bridge SE1,SE1 9AG,Guest,2025 Q4,Handpump,,51.5062421,-0.09107338
-Greater London,Williamsons Tavern,Mansion House EC4M,EC4M 9EH,Guest,2025 Q3,Handpump,,51.513331,-0.09401815
+Greater London,Williamsons Tavern,Mansion House EC4M,EC4M 9EH,Guest,2026 Q2,Handpump,,51.513331,-0.09401815
+Greater London,Ship,Monument EC3V,EC3V 0BP,Guest,2026 Q3,Handpump,,51.5110721,-0.0847581
+Greater London,Railway Tavern,Richmond TW9,TW9 1DN,Guest,2025 Q4,Handpump,,51.462235594444444,-0.30259745555555556
+Greater London,Woodman,Ruislip,HA4 7SE,Guest,2025 Q4,Handpump,,51.58677228333333,-0.438726
 Greater London,Clachan,Soho W1B,W1B 5QH,Guest,2026 Q1,Handpump,,51.5135261,-0.1402293
 Greater London,Argyll Arms,Soho W1F,W1F 7TP,Guest,2026 Q2,Handpump,,51.51506,-0.141238
 Greater London,Crown and Two Chairmen,Soho W1D,W1D 3SB,Guest,2026 Q3,Handpump,,51.5138683,-0.1324605
 Greater London,Devonshire,Soho W1D,W1D 7HW,Guest,2026 Q2,Handpump,,51.5106407,-0.1353307
 Greater London,Lyric,Soho W1D,W1D 7LT,Guest,2026 Q1,Handpump,,51.51127,-0.1344499
-Greater London,Ye Olde Watling,St Pauls,EC4M 9BR,Guest,2025 Q3,Handpump,,51.51296261428571,-0.0937650428571428
+Greater London,Ye Olde Watling,St Pauls,EC4M 9BR,Guest,2026 Q3,Handpump,,51.51296261428571,-0.0937650428571428
 Greater London,Duchess,Stamford Brook,W6 0XF,Guest,2026 Q1,Handpump,,51.496765725,-0.244437075
-Greater London,Brownswood (Park Tavern),Stoke Newington N4,N4 2EX,Guest,2025 Q3,Handpump,,51.563968,-0.092729
 Greater London,Coach and Horses,Stoke Newington N16,N16 7JL,Guest,2026 Q2,Handpump,,51.56129841,-0.07359422
 Greater London,Railway,Streatham SW16,SW16 5SD,Guest,2026 Q1,Handpump,,51.4183626,-0.1346845
 Greater London,Dolphin,Sydenham SE26,SE26 5HB,Guest,2025 Q4,Handpump,,51.4258648,-0.047826975
@@ -265,107 +251,89 @@ Greater Manchester,Ladybrook,Bramhall,SK7 2NP,Guest,2026 Q2,Handpump,,53.3714906
 Greater Manchester,Heaton Hops,Heaton Chapel,SK4 5DE,Guest,2026 Q1,Handpump,,53.427618395652175,-2.175998978260869
 Greater Manchester,Plough,Heaton Moor,SK4 4NZ,Guest,2025 Q4,Handpump,,53.4233671,-2.1833067
 Greater Manchester,Rams Head,Lowton,WA3 2EY,Guest,2026 Q2,Handpump,,53.478087933333335,-2.5768397
-Greater Manchester,Bay Horse,Manchester: Central,M4 1NA,Guest,2025 Q3,Handpump,,53.4842353,-2.2368211
-Greater Manchester,Unicorn,Manchester: Central,M4 1PN,Guest,2026 Q2,Handpump,Regular quality warnings,53.48300174,-2.23824618
+Greater Manchester,Bay Horse,Manchester: Central,M4 1NA,Guest,2026 Q3,Handpump,,53.4842353,-2.2368211
+Greater Manchester,Unicorn,Manchester: Central,M4 1PN,Guest,2026 Q3,Handpump,Regular quality warnings,53.48300174,-2.23824618
 Greater Manchester,Waldorf,Manchester: Central,M1 3AQ,Guest,2026 Q1,Handpump,,53.4795818,-2.2339421
 Greater Manchester,Commercial,Mossley,OL5 0AA,Guest,2025 Q4,Handpump,,53.5145508,-2.0411448
 Greater Manchester,Anglesey,Salford,M3 5DF,Guest,2026 Q1,Handpump,,53.48455168571429,-2.250400214285714
-Greater Manchester,New Oxford,Salford,M3 6DB,Guest,2026 Q2,Handpump,,53.48366365,-2.2593487
-Greater Manchester,Petersgate Tap,Stockport,SK1 1EB,Guest,2025 Q3,Handpump,,53.410073784210525,-2.1580358736842107
 Greater Manchester,White Lion,Stockport,SK1 1LW,Guest,2026 Q2,Handpump,,53.41161876,-2.1581960600000003
 Greater Manchester,Ye Olde Vic,Stockport,SK3 9ED,Guest,2025 Q4,Handpump,,53.40411703076923,-2.166591296153846
-Merseyside,Irby Mill,Greasby,CH49 3NT,Guest,2026 Q2,Handpump,,53.36782,-3.12269
+Merseyside,Irby Mill,Greasby,CH49 3NT,Guest,2026 Q3,Handpump,,53.36782,-3.12269
 Merseyside,Twelve Sixty,Hoylake,CH47 2AE,Guest,2026 Q1,Handpump,,53.39117953125,-3.178678
-Merseyside,Jawbone,Liverpool: Bootle,L20 3BZ,Guest,2026 Q2,,,53.44925,-2.98685
+Merseyside,Jawbone,Liverpool: Bootle,L20 3BZ,Guest,2026 Q3,,,53.44925,-2.98685
 Merseyside,Crown Hotel,Liverpool: Central,L1 1JQ,Guest,2026 Q3,Handpump,,53.406168666666666,-2.9784769333333334
-Merseyside,Excelsior,Liverpool: Central,L2 2JH,Guest,2025 Q3,Handpump,,53.4098075,-2.9843498
+Merseyside,Excelsior,Liverpool: Central,L2 2JH,Guest,2026 Q2,Handpump,,53.4098075,-2.9843498
 Merseyside,Monro,Liverpool: Central,L1 5AG,Guest,2026 Q1,Handpump,Quality warning 2025 Q3,53.4012783,-2.9806615
 Merseyside,Philharmonic Dining Rooms,Liverpool: Central,L1 9BX,Guest,2026 Q2,Handpump,,53.4017988,-2.9705282
 Merseyside,Vernon Arms,Liverpool: Central,L2 2HJ,Guest,2026 Q1,Handpump,Downgraded to guest as twice reported unavailable 2025 Q4,53.4085936,-2.9877266
 Merseyside,White Star,Liverpool: Central,L2 6PT,Guest,2026 Q1,Handpump,,53.4062016,-2.9863362
 Merseyside,Royal Alfred,St Helens,WA10 1DH,Guest,2025 Q4,Handpump,,53.4533896,-2.7331553
-Merseyside,Crown,Southport: Birkdale,PR8 3BZ,Guest,2025 Q3,Handpump,,53.6174932,-3.0167372
 Merseyside,Guest House,Southport: Central,PR9 0QF,Guest,2026 Q3,Handpump,,53.6502662,-2.9994575
-Merseyside,Masons Arms,Southport: Central,PR9 0UT,Guest,2025 Q3,Handpump,,53.6484947,-3.00272255
 Merseyside,Windmill,Southport: Central,PR9 0EL,Guest,2026 Q2,Handpump,,53.6520621,-3.0025542
 Norfolk,Fat Cat,Norwich,NR2 4NA,Guest,2026 Q2,Handpump,,52.635162066666666,1.2757194666666667
-Norfolk,Marlborough Arms,Norwich,NR3 4PB,Guest,2025 Q3,Handpump,,52.6394371,1.2997389
 Northamptonshire,Malt Shovel,Northampton,NN1 1QF,Guest,2026 Q2,Handpump,,52.23242566666667,-0.89676465
 Northamptonshire,Red Lion,Thornby,NN6 8SJ,Guest,2025 Q4,Handpump,"""I struggle to get hold of it from suppliers""",52.3749257,-1.0166067
-Northumberland,Barrels,Berwick-upon-Tweed,TD15 1ES,Guest,2025 Q3,Handpump,,55.76833216,-2.00476708
+Northumberland,Barrels,Berwick-upon-Tweed,TD15 1ES,Guest,2026 Q3,Handpump,,55.76833216,-2.00476708
 Nottinghamshire,Chequers,Beeston,NG9 4AF,Guest,2026 Q1,Handpump,,52.92195184285714,-1.2212650714285715
 Nottinghamshire,Nags Head,East Leake,LE12 6PG,Guest,2026 Q2,Handpump,,52.83123444615384,-1.1770531384615384
 Nottinghamshire,Pick & Davy,Eastwood,NG16 3GS,Guest,2026 Q2,Handpump,,53.01440602692308,-1.2937277576923076
-Nottinghamshire,Caught and Bowled,Giltbrook,NG16 2GG,Guest,2026 Q2,Handpump,"""guest beer which he has twice a month""",53.00680625,-1.28223815
+Nottinghamshire,Caught and Bowled,Giltbrook,NG16 2GG,Guest,2026 Q3,Handpump,"""guest beer which he has twice a month""",53.00680625,-1.28223815
+Nottinghamshire,Woodlark,Lambley,NG4 4QB,Guest,2026 Q3,Handpump,,53.0034275,-1.0626121
+Nottinghamshire,Brown Cow,Mansfield,NG18 2JA,Guest,2026 Q1,Handpump,,53.1433181,-1.1898574800000001
+Nottinghamshire,Greyhound,Mansfield,NG19 8BD,Guest,2026 Q3,Handpump,,53.1656394,-1.1899625
 Nottinghamshire,Stella Taps,Mansfield,NG18 4Al,Guest,2026 Q2,Handpump,,53.13508,-1.19495
 Nottinghamshire,Pit,Newstead,NG15 0BU,Guest,2026 Q2,Handpump,,53.07129323333333,-1.2247670666666666
 Nottinghamshire,Loose Cannon,Newark,NG24 1AN,Guest,2026 Q1,Handpump,,53.07638,-0.81168
-Nottinghamshire,Brew Tavern,Nottingham: Central,NG2 2AS,Guest,2026 Q3,,Available Banked,52.946553,-1.14652
 Nottinghamshire,Bunkers Hill,Nottingham: Central,NG1 1FP,Guest,2026 Q2,Handpump,,52.953559616666666,-1.1403865
 Nottinghamshire,Hand and Heart,Nottingham: Central,NG1 5BA,Guest,2026 Q3,Handpump,,52.955461625,-1.1602455625
 Nottinghamshire,Keans Head,Nottingham: Central,NG1 1QA,Guest,2026 Q2,Handpump,,52.951266614285714,-1.1440601
 Nottinghamshire,Roundhouse,Nottingham: Central,NG1 6FS,Guest,2026 Q1,Handpump,,52.95166963333333,-1.1554588
 Nottinghamshire,Three Crowns,Nottingham: Central,NG1 6LD,Guest,2026 Q1,Handpump,,52.95459942,-1.15258918
 Nottinghamshire,Bread and Bitter,Nottingham: Mapperley,NG3 5JL,Guest,2026 Q2,Handpump,,52.98381255714286,-1.123202157142857
-Nottinghamshire,Apple Tree,Nottingham: West Bridgford,NG2 7PA,Guest,2026 Q2,Handpump,,52.92181164,-1.1541972
+Nottinghamshire,Apple Tree,Nottingham: West Bridgford,NG2 7PA,Guest,2026 Q3,Handpump,,52.92181164,-1.1541972
 Nottinghamshire,Stratford Haven,Nottingham: West Bridgford,NG2 6BA,Guest,2026 Q2,Handpump,,52.931668675,-1.130173925
 Nottinghamshire,Royal Oak,Radcliffe on Trent,NG12 2FD,Guest,2026 Q1,Handpump,,52.9468464,-1.0386137
-Nottinghamshire,Horse and Jockey,Selston,NG16 6FB,Guest,2026 Q2,Handpump,"""very regular guest"" (Sep 25)",53.0808592,-1.30951
-Nottinghamshire,Earl of Chesterfield Arms,Shelford,NG12 1EQ,Guest,2026 Q2,Handpump,,52.9754971,-1.0119117
+Nottinghamshire,Horse and Jockey,Selston,NG16 6FB,Guest,2026 Q3,Handpump,"""very regular guest"" (Sep 25)",53.0808592,-1.30951
+Nottinghamshire,Earl of Chesterfield Arms,Shelford,NG12 1EQ,Guest,2026 Q3,Handpump,,52.9754971,-1.0119117
 Nottinghamshire,Watermill (Toby Carvery),Sutton in Ashfield: Central,NG17 4NE,Guest,2025 Q4,Handpump,,53.1269112,-1.24099175
-Nottinghamshire,Air Hostess,Tollerton,NG12 4EA,Guest,2025 Q3,Handpump,,52.9011833,-1.0985953333333334
 Oxfordshire,Barley Mow,Banbury,OX16 1SS,Guest,2026 Q1,Handpump,,52.0711645,-1.3626971
 Oxfordshire,Easington,Banbury,OX16 9JU,Guest,2026 Q1,Handpump,,52.051715,-1.3461146
 Oxfordshire,Three Pigeons,Banbury,OX16 2ED,Guest,2026 Q1,Handpump,"""once a month"" (Aug 2025)",52.063820060000005,-1.33951806
-Oxfordshire,Red Lion,Chinnor,OX39 4DL,Guest,2025 Q3,Handpump,,51.70591,-0.90788
-Oxfordshire,Chequers,Oxford: Central,OX1 4DH,Guest,2025 Q3,Handpump,,51.75193921666667,-1.2565444
-Oxfordshire,Crown,Oxford: Central,OX1 3HB,Guest,2025 Q4,Handpump,,51.75241595714286,-1.2582355857142855
 Oxfordshire,Britannia,Oxford: Headington,OX3 7AA,Guest,2025 Q4,Handpump,,51.7590555,-1.2139419
 Oxfordshire,Star,Oxford: St Clements,OX4 1BU,Guest,2026 Q2,Handpump,,51.74932154516129,-1.2384185903225806
 Oxfordshire,Dew Drop Inn,Oxford: Summertown,OX2 7DX,Guest,2025 Q4,Handpump,,51.77763333333333,-1.2645465
-Oxfordshire,George,Upton,OX11 9JJ,Guest,2025 Q3,Handpump,,51.577371,-1.26359165
 Oxfordshire,Cross Keys,Wallingford,OX10 0DB,Guest,2026 Q1,Handpump,"""very regular guest beer""",51.6010225,-1.1277483
-Rutland,Railway,Ketton,PE9 3RD,Guest,2025 Q3,Handpump,,52.627268,-0.5514344
 Rutland,Vaults,Uppingham,LE15 9QH,Guest,2025 Q4,Handpump,,52.58764764,-0.7221468
 Shropshire,Bear Inn,Bridgnorth,WV16 4ER,Guest,2026 Q2,Handpump,,52.5390674,-2.4197883
-Shropshire,Sun,Clun,SY7 8JB,Guest,2025 Q3,Handpump,Confirmed as guest (Aug 2025),52.42151,-3.02751
 Shropshire,Royal Oak (The Tiddly),Ellerdine Heath,TF6 6RL,Guest,2026 Q1,Handpump,,52.7995621,-2.5902922
-Shropshire,Horse and Jockey,Grindley Brook,SY13 4QJ,Guest,2025 Q3,Handpump,,52.9841475,-2.71355165
-Shropshire,Queens,Horton,TF6 6DW,Guest,2025 Q4,Handpump,,52.7284417,-2.4748441
-Shropshire,Green Dragon,Little Stretton,SY6 6RE,Guest,2026 Q2,Handpump,,52.5198908,-2.8221324
-Shropshire,Stag and Scotch,Newport,TF10 7AU,Guest,2026 Q1,Handpump,,52.769,-2.37905
-Shropshire,Horse and Jockey,Northwood,SY4 5NN,Guest,2025 Q4,Handpump,,52.8946692,-2.7973657
-Shropshire,Station Hotel,Oakengates,TF2 6DU,Guest,2026 Q2,Handpump,,52.69502258333333,-2.4494643666666667
 Shropshire,Red Lion,Shrewsbury: Harlescott,SY1 4AB,Guest,2025 Q4,Handpump,,52.74057685714286,-2.722839942857143
 Somerset,Volunteer Rifleman's Arms,Bath,BA1 1BH,Guest,2026 Q2,Handpump,,51.38285546,-2.36041232
-Somerset,Somerset and Dorset,Burnham-on-Sea,TA8 1NZ,Guest,2025 Q3,Handpump,,51.2343464,-2.9975327
-Somerset,Oscars,Crewkerne,TA18 7LE,Guest,2025 Q3,Handpump,,50.8852142,-2.7959096
+Somerset,Somerset and Dorset,Burnham-on-Sea,TA8 1NZ,Guest,2026 Q2,Handpump,,51.2343464,-2.9975327
 Somerset,Martlet Inn,Langford Budville,TA21 0QZ,Guest,2025 Q4,Handpump,,50.9972988,-3.268619
-Somerset,Merry Monk,Monkton Heathfield,TA2 8NE,Guest,2025 Q3,Handpump,,51.036182,-3.064924
 Somerset,Clarence House,Portishead,BS20 6PY,Guest,2025 Q4,Handpump,,51.47817717307692,-2.767912873076923
 Somerset,Bell,Standerwick,BA11 2PR,Guest,2026 Q1,Handpump,,51.25522,-2.2642699
 Somerset,Pebbles Tavern,Watchet,TA23 0AN,Guest,2026 Q2,Handpump,,51.1827501,-3.3310682
 Somerset,Crossways Inn,West Huntspill,TA9 3RA,Guest,2026 Q2,Handpump,,51.203217,-2.988679
 Somerset,Butchers Arms,Yatton,BS49 4JD,Guest,2025 Q4,Handpump,,51.384709316666665,-2.815208108333333
 Staffordshire,Plum Pudding,Armitage,WS15 4AZ,Guest,2026 Q2,Handpump,,52.7451205,-1.8940945
+Staffordshire,Middle Bell,Barton-under-Needwood,DE13 8AA,Guest,2026 Q2,Handpump,,52.76478445,-1.7237420833333332
 Staffordshire,Waterfront,Barton-under-Needwood,DE13 8AS,Guest,2026 Q1,Handpump,,52.7603994,-1.7082117
 Staffordshire,Roaring Meg,Biddulph,ST8 7EA,Guest,2026 Q2,Handpump,,53.1211384,-2.160361
 Staffordshire,Staffordshire Knot,Biddulph,ST8 6RG,Guest,2026 Q1,Handpump,,53.1266811,-2.17672
 Staffordshire,Talbot,Biddulph Moor,ST8 7RY,Guest,2026 Q1,Handpump,,53.1353476,-2.1581229
-Staffordshire,Working Mens Club (PMC),Birchmoor,B78 1AF,Guest,2026 Q1,Handpump,,52.6104878,-1.6313054
+Staffordshire,Working Mens Club (PMC),Birchmoor,B78 1AF,Guest,2026 Q3,Handpump,,52.6104878,-1.6313054
 Staffordshire,Red Lion,Boundary,ST10 2NU,Guest,2026 Q1,Handpump,,52.9798199,-2.0283
 Staffordshire,Star,Burntwood Green,WS7 0HJ,Guest,2025 Q4,Handpump,,52.676951,-1.9044127600000005
 Staffordshire,Corner House,Burton U-T: Branston,DE14 2WF,Guest,2025 Q4,Handpump,,52.795910077777776,-1.668352
 Staffordshire,Dial,Burton U-T: Central,DE14 1BN,Guest,2026 Q1,Handpump,,52.8043284875,-1.6341376375
 Staffordshire,Loaf and Cheese,Burton U-T: Central,DE14 2NF,Guest,2026 Q2,Handpump,"""most of the time""",52.8130691,-1.6426343
 Staffordshire,Long Hop,Burton U-T: Central,DE14 3RW,Guest,2026 Q3,Handpump,,52.8003768,-1.6290484
-Staffordshire,Burton Tennis and Squash Club (PMC),Burton U-T: Stapenhill,DE15 0LQ,Guest,2026 Q2,Handpump,,52.8041562,-1.60734455
+Staffordshire,Burton Tennis and Squash Club (PMC),Burton U-T: Stapenhill,DE15 0LQ,Guest,2026 Q3,Handpump,,52.8041562,-1.60734455
 Staffordshire,Grove,Burton U-T: Stapenhill,DE15 9DQ,Guest,2026 Q3,Handpump,,52.794266564285714,-1.6152591214285714
 Staffordshire,Newhall Arms,Cannock,WS11 1BN,Guest,2026 Q2,Handpump,,52.68945594,-2.03236888
 Staffordshire,Cricket Club,Caverswall,ST3 6PJ,Guest,2026 Q1,Handpump,,52.99027,-2.09046
 Staffordshire,Bakers Arms,Cheadle,ST10 1AA,Guest,2026 Q2,Handpump,"""on occaision"" (June 25)",52.9874657,-1.9888151
 Staffordshire,Red Lion,Cheddleton,ST13 7HN,Guest,2026 Q1,Handpump,,53.0685405625,-2.0418105375
-Staffordshire,Royal Oak,Church Eaton,ST20 0AJ,Guest,2025 Q3,Handpump,,52.7544092,-2.2314225
 Staffordshire,Black Lion,Consall,ST9 0AJ,Guest,2026 Q2,Handpump,,53.0396696,-2.0012894
 Staffordshire,Swan,Draycott-in-the-Clay,DE6 5GZ,Guest,2026 Q2,Handpump,,52.8571575,-1.769755
 Staffordshire,Plough,Endon,ST9 9BE,Guest,2026 Q2,Handpump,,53.07884,-2.1086039
@@ -374,23 +342,22 @@ Staffordshire,Old Red Lion,Ipstones,ST10 2NA,Guest,2026 Q2,Handpump,,53.0406881,
 Staffordshire,Labour Club (PMC),Kidsgrove,ST7 4AB,Guest,2026 Q1,Handpump,,53.08731965,-2.238433
 Staffordshire,Railway Inn,Kidsgrove,ST7 1EA,Guest,2025 Q4,Handpump,,53.08706,-2.24177
 Staffordshire,Bankers Draught,Leek,ST13 5JN,Guest,2026 Q2,Handpump,,53.10536,-2.02171
+Staffordshire,Inkspot,Leek,ST13 6HX,Guest,2026 Q3,Handpump,,53.10646,-2.0235599
 Staffordshire,Leek Golf Club,Leek,ST13 5RE,Guest,2026 Q2,Handpump,,53.0889198,-2.0248185
-Staffordshire,Boar,Moddershall,ST15 8TG,Guest,2025 Q3,Handpump,,52.9290366,-2.1110076
+Staffordshire,Boar,Moddershall,ST15 8TG,Guest,2026 Q2,Handpump,,52.9290366,-2.1110076
 Staffordshire,Ash Inn,Mow Cop,ST7 4NE,Guest,2026 Q1,Handpump,,53.1082757,-2.215782
 Staffordshire,George and Dragon,Newcastle-U-L: Central,ST5 1RH,Guest,2026 Q2,Handpump,,53.0120644,-2.22664405
-Staffordshire,Newcastle Town FC (PMC),Newcastle-U-L: Central,ST5 3BX,Guest,2026 Q2,Handpump,,52.9977028,-2.2149251
+Staffordshire,Newcastle Town FC (PMC),Newcastle-U-L: Central,ST5 3BX,Guest,2026 Q3,Handpump,,52.9977028,-2.2149251
 Staffordshire,Dick Turpin,Newcastle-U-L: Higherland,ST5 2QS,Guest,2026 Q2,Handpump,,53.0029989,-2.2466516
 Staffordshire,Vine Inn,Newcastle-U-L: Silverdale,ST5 6LX,Guest,2026 Q2,Handpump,,53.015236,-2.2695816
 Staffordshire,Wulstan,Newcastle-U-L: Wolstanton,ST5 8BU,Guest,2025 Q4,Handpump,,53.0317,-2.22411
 Staffordshire,Cricketers Arms,Oakamoor,ST10 3AB,Guest,2026 Q2,Handpump,,53.0014197,-1.9205228
 Staffordshire,Spread Eagle,Rolleston-on-Dove,DE13 9BE,Guest,2026 Q2,Handpump,Guest with two others on rotation (Sep 25). Quality warnings 2026 Q1,52.84648225,-1.6512114
 Staffordshire,Acorn,Rough Hay,DE13 9PX,Guest,2025 Q4,Handpump,,52.8125199,-1.697486
-Staffordshire,Kings Arms,Stafford,ST16 3HD,Guest,2025 Q3,Handpump,,52.81713,-2.1175
-Staffordshire,Pickled Pig,Stafford,ST16 2JU,Guest,2025 Q3,Handpump,,52.8079821,-2.11682095
-Staffordshire,Wildwood,Stafford,ST17 4RA,Guest,2025 Q3,Handpump,,52.7846512,-2.0813902
-Staffordshire,John Marston,Stoke: Blurton,ST3 2NQ,Guest,2025 Q3,Handpump,,52.98628,-2.14687
+Staffordshire,Pickled Pig at the Bankhouse,Stafford,ST16 2JU,Guest,2026 Q3,Handpump,,52.8079821,-2.11682095
+Staffordshire,Wildwood,Stafford,ST17 4RA,Guest,2026 Q2,Handpump,,52.7846512,-2.0813902
+Staffordshire,John Marston,Stoke: Blurton,ST3 2NQ,Guest,2026 Q1,Handpump,,52.98628,-2.14687
 Staffordshire,Ye Olde Manor Inn,Stoke: Fenton,ST4 2PT,Guest,2026 Q2,Handpump,,53.00066,-2.16473
-Staffordshire,Travellers Rest,Stoke: Goldenhill,ST6 5SJ,Guest,2025 Q3,Handpump,,53.0801715,-2.2235194
 Staffordshire,Cheshire Cheese,Stoke: Hanley,ST1 6BA,Guest,2026 Q2,Handpump,"""rotate between Bass and Timothy Taylor""",53.03385,-2.169776
 Staffordshire,Village Tavern,Stoke: Hanley,ST1 3ER,Guest,2025 Q4,Handpump,,53.017089,-2.167852
 Staffordshire,Travellers Rest,Stoke: Milton,ST2 7AQ,Guest,2026 Q1,Handpump,,53.0492981,-2.140209
@@ -402,7 +369,7 @@ Staffordshire,Greyhound Inn,Warslow,SK17 0JN,Guest,2026 Q2,Handpump,,53.126263,-
 Staffordshire,Ye Olde Crown Hotel,Waterhouses,ST10 3HL,Guest,2026 Q2,Handpump,,53.049055,-1.87626
 Staffordshire,Red Cow,Werrington,ST9 0DT,Guest,2025 Q4,Handpump,,53.0248739,-2.086922
 Staffordshire,Cock,Woodseaves,ST20 0NP,Guest,2026 Q2,Handpump,,52.8253861,-2.2995544
-Suffolk,Rising Sun,Bury St Edmunds,IP33 3AA,Guest,2025 Q4,Handpump,,52.24718772058824,0.7099806088235294
+Suffolk,Rising Sun,Bury St Edmunds,IP33 3AA,Guest,2026 Q3,Handpump,,52.24718772058824,0.7099806088235294
 Suffolk,Waveney,Lowestoft: Oulton Broad,NR32 3LN,Guest,2026 Q2,Handpump,,52.476175417647056,1.7126740588235292
 Surrey,Rising Sun,Epsom,KT18 5DX,Guest,2025 Q4,Handpump,,51.33073041111111,-0.2634140222222222
 Surrey,Garibaldi,Redhill,RH1 6PA,Guest,2026 Q2,Handpump,,51.23393326666667,-0.1750303666666667
@@ -414,41 +381,36 @@ Sussex,Cinque Ports,Seaford,BN25 1PP,Guest,2026 Q2,Handpump,,50.7716449,0.104111
 Sussex,Horse and Groom,St Leonards,TN38 0EB,Guest,2026 Q2,Handpump,,50.8519275,0.5566894153846154
 Tyne and Wear,Wardley,Gateshead,NE10 0TT,Guest,2025 Q4,Handpump,,54.9579862,-1.5373667
 Tyne and Wear,Hunting Lodge,Monkseaton,NE25 9SX,Guest,2026 Q2,Handpump,"""one of the ales we use""",55.0383449,-1.4733996
-Tyne and Wear,Broad Chare,Newcastle: Central,NE1 3DQ,Guest,2026 Q3,Handpump,,54.96981183333334,-1.6045822
-Tyne and Wear,Delaval Arms,Seaton Delaval,NE26 4RL,Guest,2025 Q3,Handpump,,55.07574225,-1.46552375
 Tyne and Wear,Salutation,Tynemouth,NE30 4BT,Guest,2025 Q4,Handpump,,55.01736533333334,-1.4233673
 Tyne and Wear,Rockcliffe Arms,Whitley Bay,NE26 2DT,Guest,2026 Q2,Handpump,Regular guest (Sep 25),55.0405183,-1.4401766
 Warwickshire,Lord Nelson,Ansley,CV10 9PQ,Guest,2026 Q2,Handpump,is guest 'sometimes',52.519012,-1.5569664
 Warwickshire,Market Tavern Tap,Atherstone,CV9 1ET,Guest,2026 Q1,Handpump,,52.5780443,-1.5461412
 Warwickshire,White Horse,Atherstone,CV9 1AB,Guest,2025 Q4,Handpump,,52.576871,-1.545465
-Warwickshire,Red Lion,Baddesley Ensor,CV9 2BT,Guest,2026 Q1,Handpump,,52.5825216,-1.5977078
-Warwickshire,Plough,Bedworth Heath,CV12 0LG,Guest,2026 Q1,Handpump,,52.4759605,-1.5098875
 Warwickshire,Nags Head,Henley-in-Arden,B95 5BA,Guest,2026 Q2,Handpump,,52.2913714,-1.7799349
-Warwickshire,Red Lion,Hunningham,CV33 9DY,Guest,2026 Q2,Handpump,,52.31268,-1.45213
+Warwickshire,Red Lion,Hunningham,CV33 9DY,Guest,2026 Q3,Handpump,,52.31268,-1.45213
 Warwickshire,Clarendon Arms,Kenilworth,CV8 1NB,Guest,2026 Q2,Handpump,,52.3486851,-1.589576
 Warwickshire,Kenilworth Sporting Ground,Kenilworth,CV8 1FA,Guest,2026 Q2,Handpump,,52.33073,-1.57853
 Warwickshire,Bulls Head,Nailstone,CV13 0QE,Guest,2026 Q2,Handpump,,52.6597367,-1.3862992
 Warwickshire,Lord Hop,Nuneaton: Central,CV11 5JX,Guest,2026 Q2,Handpump,Once in a blue moon,52.5224532,-1.4711416
-Warwickshire,Royal Oak,Nuneaton: Hartshill,CV10 0TD,Guest,2025 Q3,Handpump,,52.54174,-1.52221
-Warwickshire,Miners Arms,Nuneaton: Whittleford,CV10 9HU,Guest,2026 Q2,Handpump,,52.5242217,-1.5096678
+Warwickshire,Miners Arms,Nuneaton: Whittleford,CV10 9HU,Guest,2026 Q3,Handpump,,52.5242217,-1.5096678
 Warwickshire,Spread Eagle,Polesworth,B78 1DX,Guest,2026 Q2,Handpump,,52.6203512,-1.6129843
 Warwickshire,Bull,Rugby,CV21 3BX,Guest,2026 Q1,Handpump,,52.37160315333334,-1.2633697
 Warwickshire,Merchants,Rugby,CV21 3AW,Guest,2026 Q1,Handpump,,52.3681905,-1.2598807
 Warwickshire,Squirrel,Rugby,CV21 3PU,Guest,2025 Q4,Handpump,,52.37268025217392,-1.2593613
 Warwickshire,Griffin,Shustoke,B46 2LB,Guest,2026 Q2,Handpump,,52.51571,-1.66741
-West Midlands,Robin Hood,Amblecote,DY8 4EQ,Guest,2026 Q2,Handpump,"""we do often have it on as a guest""",52.4707531,-2.1466748
+Warwickshire,Roebuck,Warwick,CV34 4HU,Guest,2026 Q3,Handpump,,52.28311427,-1.5822187699999999
+West Midlands,Robin Hood,Amblecote,DY8 4EQ,Guest,2026 Q3,Handpump,"""we do often have it on as a guest""",52.4707531,-2.1466748
 West Midlands,Shakespeare (Summer Row),Birmingham: Central,B3 1JJ,Guest,2026 Q1,Handpump,,52.48171793333333,-1.9077033666666667
-West Midlands,Anchor,Birmingham: Digbeth,B5 6ET,Guest,2026 Q2,Handpump,,52.4747297,-1.8889912333333327
+West Midlands,Anchor,Birmingham: Digbeth,B5 6ET,Guest,2026 Q3,Handpump,,52.4747297,-1.8889912333333327
 West Midlands,White Swan,Birmingham: Digbeth,B5 6EP,Guest,2026 Q2,Handpump,"""on as much as we can, difficult to get at times unfortunately""",52.473719,-1.886279
 West Midlands,Selly Park Tavern,Birmingham: Selly Oak,B29 7HQ,Guest,2026 Q3,Handpump,,52.4473727,-1.913241
 West Midlands,British Oak,Birmingham: Stirchley,B30 2XS,Guest,2026 Q3,Handpump,,52.4281898,-1.9218932
 West Midlands,Open Arms,Coventry: Cheylesmore,CV3 5DP,Guest,2025 Q4,Handpump,,52.3917454,-1.5140966
 West Midlands,Green House,Mere Green,B74 2UD,Guest,2026 Q1,Handpump,,52.58379905,-1.82829377
 West Midlands,Fountain,Lower Gornal,DY3 2PE,Guest,2026 Q2,Handpump,,52.51824665,-2.12548545
-West Midlands,Fieldhouse,Solihull,B91 3JU,Guest,2025 Q3,Handpump,,52.3969465375,-1.78789539375
+West Midlands,Fieldhouse,Solihull,B91 3JU,Guest,2026 Q3,Handpump,,52.3969465375,-1.78789539375
 West Midlands,Queslett,Streetly,B74 2EY,Guest,2026 Q1,Handpump,,52.5659151,-1.8860425
 West Midlands,Dog Inn,Water Orton,B46 1NW,Guest,2026 Q2,Handpump,,52.5189599,-1.7414821
-West Midlands,Three Crowns,Willenhall,WV13 1RT,Guest,2025 Q3,Handpump,,52.5819652,-1.9258119
 West Midlands,Dog and Gun,Wolverhampton: Tettenhall,WV6 8SB,Guest,2026 Q2,Handpump,,52.599783333333335,-2.1728799
 Wiltshire,British Lion,Devizes,SN10 1LQ,Guest,2026 Q1,Handpump,"""regular basis but all ales are guests""",51.35242195,-1.98906705
 Wiltshire,Five Bells,Royal Wootton Bassett,SN4 7BD,Guest,2025 Q4,Handpump,,51.5418057,-1.9061317
@@ -459,17 +421,16 @@ Worcestershire,Chester Tavern,Kidderminster,DY10 1TN,Guest,2026 Q2,Handpump,,52.
 Worcestershire,King and Castle,Kidderminster,DY10 1QX,Guest,2026 Q1,Handpump,,52.3844026,-2.2394602
 Worcestershire,Old Rose and Crown,Stourport,DY13 9PA,Guest,2026 Q3,Handpump,,52.336275,-2.268772
 Worcestershire,Alestones,Tardebigge,B97 6QW,Guest,2026 Q3,Handpump,,52.3178,-1.99682
-Worcestershire,Dragon Inn,Worcester: Central,WR1 1JT,Guest,2025 Q3,Handpump,,52.1974938,-2.2237118
-Worcestershire,Firefly,Worcester: Central,WR1 2SE,Guest,2026 Q2,Handpump,,52.1946198,-2.2166454
+Worcestershire,Firefly,Worcester: Central,WR1 2SE,Guest,2026 Q3,Handpump,,52.1946198,-2.2166454
 Worcestershire,Lyppard Grange,Worcester: Lyppard Grange,WR4 0DZ,Guest,2026 Q1,Handpump,,52.199667,-2.1773842
-East Yorkshire,New Inn,Hornsea,HU18 1AN,Guest,2026 Q2,Handpump,,53.9109075,-0.1749872
 East Yorkshire,Minerva,Hull,HU1 1XE,Guest,2026 Q1,Handpump,,53.7383119,-0.33433436
 East Yorkshire,Beech Tree,Kirk Ella,HU10 7LS,Guest,2026 Q1,Handpump,,53.748768,-0.441371
+North Yorkshire,Tiger Inn,Easington,TS13 4NE,Guest,2026 Q2,Handpump,,54.5526239,-0.85732
 North Yorkshire,Hales Bar,Harrogate,HG1 2RS,Guest,2026 Q1,Handpump,,53.9938579,-1.5467719
-North Yorkshire,Crown Inn,Manfield,DL2 2RF,Guest,2025 Q3,Handpump,"""long-term guest""",54.516422,-1.6608422
+North Yorkshire,Crown Inn,Manfield,DL2 2RF,Guest,2026 Q3,Handpump,"""long-term guest"" via pub Aug 2026",54.516422,-1.6608422
 North Yorkshire,Portly Pig,Ripon,HG4 1PA,Guest,2026 Q1,Handpump,,54.13526276842105,-1.522284605263158
 North Yorkshire,Beer Engine,Skipton,BD23 1JD,Guest,2026 Q1,Handpump,,53.9608564,-2.01920785
-North Yorkshire,Little Angel,Whitby,YO21 3BA,Guest,2026 Q2,Handpump,,54.48658133846154,-0.6154181615384615
+North Yorkshire,Little Angel,Whitby,YO21 3BA,Guest,2026 Q3,Handpump,,54.48658133846154,-0.6154181615384615
 North Yorkshire,George and Dragon,Yarm,TS15 9AH,Guest,2026 Q1,Handpump,,54.509443675,-1.3537176714285717
 North Yorkshire,Crooked Tap,York: Acomb,YO26 5LL,Guest,2025 Q4,Handpump,,53.95557521818181,-1.1306263545454545
 South Yorkshire,Leopard,Doncaster,DN1 3AA,Guest,2026 Q2,Handpump,,53.5209873,-1.1378037
@@ -478,40 +439,33 @@ South Yorkshire,Foresters,Sheffield: Central,S1 4GE,Guest,2025 Q4,Handpump,,53.3
 South Yorkshire,Lord Nelson,Sheffield: Central,S1 4RE,Guest,2026 Q1,Handpump,,53.3750127,-1.4705405
 South Yorkshire,Botanical Arms,Sheffield: Ecclesall Road,S11 8PR,Guest,2026 Q2,Handpump,,53.36870692222222,-1.4972201
 South Yorkshire,Brothers Arms,Sheffield: Heeley,S8 9TZ,Guest,2026 Q2,Handpump,,53.3610259,-1.4698541
-South Yorkshire,Rising Sun,Sheffield: Whirlow,S11 9ND,Guest,2025 Q3,Handpump,,53.34506151538461,-1.5205619923076923
 West Yorkshire,Exchange,Bradford,BD1 1LH,Guest,2025 Q4,Handpump,,53.7939881,-1.7525078142857142
 West Yorkshire,Boons,Horbury,WF4 6LP,Guest,2026 Q1,Handpump,,53.6600668125,-1.5551606625
 West Yorkshire,Adelphi,Leeds: Central,LS10 1JQ,Guest,2026 Q1,Handpump,,53.79267265,-1.54029325
 West Yorkshire,Whitelocks,Leeds: Central,LS1 6HB,Guest,2026 Q1,Handpump,,53.7971655,-1.5428815
 West Yorkshire,Tawny,Ossett,WF5 8AF,Guest,2026 Q1,Handpump,,53.678806175,-1.578129275
-West Yorkshire,Black Rock,Wakefield,WF1 1PQ,Guest,2025 Q3,Handpump,,53.68288467777778,-1.4987452555555556
-West Yorkshire,Red Shed,Wakefield,WF1 1QX,Guest,2025 Q4,Handpump,,53.6838831,-1.4938433
+West Yorkshire,Red Shed,Wakefield,WF1 1QX,Guest,2026 Q3,Handpump,,53.6838831,-1.4938433
 West Yorkshire,Royal Air Forces Association (PMC),Yeadon,LS19 7NA,Guest,2026 Q2,Handpump,"""Anyone can be signed in 3 times after which you have to join""",53.8637789,-1.6966683
-Glamorgan,Queens Vaults,Cardiff: Centre,CF10 1EH,Guest,2025 Q3,Handpump,,51.4789525,-3.1793807
 Glamorgan,Borough Arms,Neath,SA11 1PH,Guest,2026 Q3,Handpump,,51.65689,-3.80897
-Glamorgan,Llanover Arms,Pontypridd,CF37 4PE,Guest,2025 Q3,Handpump,,51.6046117,-3.3363418
+Glamorgan,Llanover Arms,Pontypridd,CF37 4PE,Guest,2026 Q2,Handpump,,51.6046117,-3.3363418
 Glamorgan,Rock Inn,Porthcawl,CF36 3DT,Guest,2026 Q2,Handpump,,51.479508315789474,-3.703196015789474
 Mid-Wales,Aqueduct,Froncysyllt,LL20 7PY,Guest,2026 Q2,Handpump,,52.9638646,-3.0871679
 Mid-Wales,Kilverts,Hay on Wye,HR3 5AG,Guest,2026 Q2,Handpump,,52.0742621,-3.1245943
 North-East Wales,Sun Inn,Eryrys,CH7 4BX,Guest,2026 Q2,Handpump,,53.1120896,-3.1909404
 North-East Wales,Aqueduct Inn,Froncysyllte,LL20 7PY,Guest,2025 Q4,Handpump,,52.9638646,-3.0871679
-North-West Wales,Adelphi Vaults,Amlwch (Anglesey),LL68 9HD,Guest,2025 Q3,Handpump,,53.4122245,-4.3347508
+North-East Wales,Crown,Llandegla,LL11 3AD,Guest,2026 Q3,Handpump,,53.0571274,-3.1989738
 North-West Wales,Paddys,Bangor,LL57 2HE,Guest,2025 Q4,Handpump,,53.22814435,-4.1346075
 North-West Wales,Bulls Head,Beaumaris,LL58 8AP,Guest,2026 Q2,Handpump,Usually on Friday/Saturday,53.26351212413793,-4.091551572413794
 North-West Wales,Castle Court Hotel,Beaumaris,LL58 8DA,Guest,2026 Q1,Handpump,,53.26393433333333,-4.0899809
 North-West Wales,Yr Alex,Caernarfon,LL55 1BA,Guest,2026 Q3,Handpump,,53.14371508,-4.2721079
 North-West Wales,Bank of Conwy,Conwy,LL32 8HT,Guest,2026 Q2,Handpump,,53.280604471428575,-3.830939114285714
-North-West Wales,Miners Arms,Meliden,LL19 8LA,Guest,2025 Q4,Handpump,,53.31766032,-3.40908854
-North-West Wales,Red Lion,Old Colwyn,LL29 9PL,Guest,2025 Q4,Handpump,,53.2895623,-3.6997124333333335
+North-West Wales,Ship Inn,Red Wharf Bay,LL75 8RJ,Guest,2026 Q3,Handpump,,53.309864965957445,-4.2087172732522795
 North-West Wales,Snowdonia Parc,Waunfawr,LL55 4AQ,Guest,2026 Q2,Handpump,,53.1065547,-4.202485
 West Wales,Stag and Pheasant,Carmarthen,SA31 1JQ,Guest,2025 Q4,Handpump,,51.8569614,-4.3040728
-West Wales,Glen,Haverfordwest,SA61 1XA,Guest,2025 Q3,Handpump,,51.7933918,-4.9793443
-West Wales,Marthas Vineyard,Milford Haven,SA73 3AA,Guest,2025 Q3,Handpump,Confirmed as guest (Aug 2025),51.7123061,-5.038735666666667
+West Wales,Glen,Haverfordwest,SA61 1XA,Guest,2026 Q3,Handpump,,51.7933918,-4.9793443
 SCOTLAND,Cask and Barrel,Edinburgh: Central,EH1 3RZ,Guest,2026 Q2,Handpump,"""semi-perm guest"" (April 2026)",55.95888094,-3.19014609
 SCOTLAND,Deacon Brodies Tavern,Edinburgh: Central,EH1 2NT,Guest,2025 Q4,Handpump,,55.9495349,-3.1929486
-SCOTLAND,Greyfriars Bobby,Edinburgh: Central,EH1 2QE,Guest,2025 Q3,Handpump,,55.947152343478265,-3.1918303260869565
 SCOTLAND,Kenilworth,Edinburgh: Central,EH2 3JD,Guest,2026 Q2,Handpump,,55.951870983333336,-3.2019505416666667
-SCOTLAND,Hectors,Edinburgh: Stockbridge,EH4 1LR,Guest,2025 Q3,Handpump,,55.9586522,-3.2095263600000004
 SCOTLAND,Stockbridge Tap,Edinburgh: Stockbridge,EH4 1HN,Guest,2026 Q2,Handpump,,55.95902382857143,-3.2107588485714285
 SCOTLAND,Cloisters,Edinburgh: Tollcross,EH3 9JH,Guest,2026 Q2,Handpump,,55.9434336,-3.202341055
 SCOTLAND,Drum and Monkey,Glasgow: Central,G2 5TF,Guest,2026 Q2,Handpump,,55.86124216666666,-4.255621583333333
