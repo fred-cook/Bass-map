@@ -235,7 +235,7 @@ Greater London,Bear and Staff,Leicester Square WC2H,WC2H 7AX,Guest,2025 Q4,Handp
 Greater London,Rake,London Bridge SE1,SE1 9AG,Guest,2025 Q4,Handpump,,51.5062421,-0.09107338
 Greater London,Williamsons Tavern,Mansion House EC4M,EC4M 9EH,Guest,2026 Q2,Handpump,,51.513331,-0.09401815
 Greater London,Ship,Monument EC3V,EC3V 0BP,Guest,2026 Q3,Handpump,,51.5110721,-0.0847581
-Greater London,Railway Tavern,Richmond TW9,TW9 1DN,Guest,2025 Q4,Handpump,,51.462235594444444,-0.30259745555555556
+Greater London,Railway Tavern,Richmond TW9,TW9 1DN,Guest,2025 Q4,Handpump,,51.46223559444445,-0.3025974555555555
 Greater London,Woodman,Ruislip,HA4 7SE,Guest,2025 Q4,Handpump,,51.58677228333333,-0.438726
 Greater London,Clachan,Soho W1B,W1B 5QH,Guest,2026 Q1,Handpump,,51.5135261,-0.1402293
 Greater London,Argyll Arms,Soho W1F,W1F 7TP,Guest,2026 Q2,Handpump,,51.51506,-0.141238
@@ -279,7 +279,7 @@ Nottinghamshire,Nags Head,East Leake,LE12 6PG,Guest,2026 Q2,Handpump,,52.8312344
 Nottinghamshire,Pick & Davy,Eastwood,NG16 3GS,Guest,2026 Q2,Handpump,,53.01440602692308,-1.2937277576923076
 Nottinghamshire,Caught and Bowled,Giltbrook,NG16 2GG,Guest,2026 Q3,Handpump,"""guest beer which he has twice a month""",53.00680625,-1.28223815
 Nottinghamshire,Woodlark,Lambley,NG4 4QB,Guest,2026 Q3,Handpump,,53.0034275,-1.0626121
-Nottinghamshire,Brown Cow,Mansfield,NG18 2JA,Guest,2026 Q1,Handpump,,53.1433181,-1.1898574800000001
+Nottinghamshire,Brown Cow,Mansfield,NG18 2JA,Guest,2026 Q1,Handpump,,53.1433181,-1.18985748
 Nottinghamshire,Greyhound,Mansfield,NG19 8BD,Guest,2026 Q3,Handpump,,53.1656394,-1.1899625
 Nottinghamshire,Stella Taps,Mansfield,NG18 4Al,Guest,2026 Q2,Handpump,,53.13508,-1.19495
 Nottinghamshire,Pit,Newstead,NG15 0BU,Guest,2026 Q2,Handpump,,53.07129323333333,-1.2247670666666666
@@ -398,7 +398,7 @@ Warwickshire,Bull,Rugby,CV21 3BX,Guest,2026 Q1,Handpump,,52.37160315333334,-1.26
 Warwickshire,Merchants,Rugby,CV21 3AW,Guest,2026 Q1,Handpump,,52.3681905,-1.2598807
 Warwickshire,Squirrel,Rugby,CV21 3PU,Guest,2025 Q4,Handpump,,52.37268025217392,-1.2593613
 Warwickshire,Griffin,Shustoke,B46 2LB,Guest,2026 Q2,Handpump,,52.51571,-1.66741
-Warwickshire,Roebuck,Warwick,CV34 4HU,Guest,2026 Q3,Handpump,,52.28311427,-1.5822187699999999
+Warwickshire,Roebuck,Warwick,CV34 4HU,Guest,2026 Q3,Handpump,,52.28311427,-1.58221877
 West Midlands,Robin Hood,Amblecote,DY8 4EQ,Guest,2026 Q3,Handpump,"""we do often have it on as a guest""",52.4707531,-2.1466748
 West Midlands,Shakespeare (Summer Row),Birmingham: Central,B3 1JJ,Guest,2026 Q1,Handpump,,52.48171793333333,-1.9077033666666667
 West Midlands,Anchor,Birmingham: Digbeth,B5 6ET,Guest,2026 Q3,Handpump,,52.4747297,-1.8889912333333327
@@ -459,7 +459,7 @@ North-West Wales,Bulls Head,Beaumaris,LL58 8AP,Guest,2026 Q2,Handpump,Usually on
 North-West Wales,Castle Court Hotel,Beaumaris,LL58 8DA,Guest,2026 Q1,Handpump,,53.26393433333333,-4.0899809
 North-West Wales,Yr Alex,Caernarfon,LL55 1BA,Guest,2026 Q3,Handpump,,53.14371508,-4.2721079
 North-West Wales,Bank of Conwy,Conwy,LL32 8HT,Guest,2026 Q2,Handpump,,53.280604471428575,-3.830939114285714
-North-West Wales,Ship Inn,Red Wharf Bay,LL75 8RJ,Guest,2026 Q3,Handpump,,53.309864965957445,-4.2087172732522795
+North-West Wales,Ship Inn,Red Wharf Bay,LL75 8RJ,Guest,2026 Q3,Handpump,,53.309864965957445,-4.20871727325228
 North-West Wales,Snowdonia Parc,Waunfawr,LL55 4AQ,Guest,2026 Q2,Handpump,,53.1065547,-4.202485
 West Wales,Stag and Pheasant,Carmarthen,SA31 1JQ,Guest,2025 Q4,Handpump,,51.8569614,-4.3040728
 West Wales,Glen,Haverfordwest,SA61 1XA,Guest,2026 Q3,Handpump,,51.7933918,-4.9793443
